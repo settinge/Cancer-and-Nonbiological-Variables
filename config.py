@@ -1,1 +1,3 @@
-api_key = "d3555d338d855a51b35d999520a93644d2544d5d"
+g_key = "AIzaSyDefvakCoJzsA7tzs0V-qrXd5k9Y0vpW8o"
+
+acs_key= "8ec06ddd385cb52ef8f4f970bc1350ad09668111"
