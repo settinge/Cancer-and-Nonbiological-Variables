@@ -1,0 +1,1366 @@
+,Job Category,People Employed,State,Year,NAICS Code,Workers per State,Labor Force,Manufacturing Percentage
+0,Basic chemical manufacturing,4474,New Jersey,2016,3251,161424,4515938,0.09907133357455306
+1,Basic chemical manufacturing,7003,Ohio,2016,3251,364242,5673884,0.12342515285825371
+2,Basic chemical manufacturing,4631,New York,2016,3251,230548,9539259,0.048546747708600846
+3,Basic chemical manufacturing,820,New Mexico,2016,3251,10553,935358,0.08766696815550837
+4,Basic chemical manufacturing,2363,Missouri,2016,3251,124148,3093755,0.07637967453789975
+5,Basic chemical manufacturing,184,Maine,2016,3251,31611,690121,0.02666199115807228
+6,Basic chemical manufacturing,1860,Kansas,2016,3251,70825,1482709,0.1254460585320518
+7,Basic chemical manufacturing,1053,Oklahoma,2016,3251,62254,1835037,0.05738303914307995
+8,Basic chemical manufacturing,3997,Iowa,2016,3251,91133,1690916,0.23638075457326088
+9,Basic chemical manufacturing,684,Idaho,2016,3251,28172,805716,0.08489343639694383
+10,Basic chemical manufacturing,899,Delaware,2016,3251,15705,470075,0.19124607775354996
+11,Basic chemical manufacturing,6860,California,2016,3251,517711,19192788,0.0357425924779662
+12,Basic chemical manufacturing,39,Montana,2016,3251,12495,519979,0.007500302896847757
+13,Basic chemical manufacturing,1567,Mississippi,2016,3251,60455,1290731,0.1214040725759279
+14,Basic chemical manufacturing,1522,Massachusetts,2016,3251,107215,3587944,0.04241983709890679
+15,Basic chemical manufacturing,5246,Illinois,2016,3251,335056,6512493,0.08055286969214401
+16,Basic chemical manufacturing,10288,Louisiana,2016,3251,107111,2089577,0.49234845138513683
+17,Basic chemical manufacturing,1439,Wyoming,2016,3251,8951,302608,0.47553270237402845
+18,Basic chemical manufacturing,12805,Tennessee,2016,3251,188053,3156375,0.4056869034889708
+19,Basic chemical manufacturing,3418,Georgia,2016,3251,208481,4993511,0.06844883289533156
+20,Basic chemical manufacturing,0,Hawaii,2016,3251,4383,699577,0.0
+21,Basic chemical manufacturing,2350,Indiana,2016,3251,231759,3295293,0.07131384068123836
+22,Basic chemical manufacturing,617,Arizona,2016,3251,56602,3252711,0.01896879249340012
+23,Basic chemical manufacturing,1208,Maryland,2016,3251,62157,3197318,0.03778166575861394
+24,Basic chemical manufacturing,3475,Alabama,2016,3251,128315,2181837,0.159269459634244
+25,Basic chemical manufacturing,2278,Wisconsin,2016,3251,250012,3108632,0.07327982212111309
+26,Basic chemical manufacturing,6442,Michigan,2016,3251,260972,4831428,0.1333353203235151
+27,Basic chemical manufacturing,2060,Nebraska,2016,3251,39252,1008515,0.20426071996946005
+28,Basic chemical manufacturing,83,New Hampshire,2016,3251,24944,746996,0.011111170608677959
+29,Basic chemical manufacturing,145,North Dakota,2016,3251,8658,427558,0.0339135275214123
+30,Basic chemical manufacturing,4606,Pennsylvania,2016,3251,317404,6420121,0.07174319611733174
+31,Basic chemical manufacturing,285,Rhode Island,2016,3251,12601,552748,0.05156056647875705
+32,Basic chemical manufacturing,734,South Dakota,2016,3251,17941,451642,0.16251810061951721
+33,Basic chemical manufacturing,1125,Minnesota,2016,3251,166155,2977719,0.03778059649013221
+34,Basic chemical manufacturing,1185,Florida,2016,3251,153757,9922037,0.011943112084746308
+35,Basic chemical manufacturing,3562,Kentucky,2016,3251,138085,2012099,0.17702906268528537
+36,Basic chemical manufacturing,477,Colorado,2016,3251,53580,2899662,0.016450193160444215
+37,Basic chemical manufacturing,1691,Virginia,2016,3251,147694,4262681,0.0396698697369097
+38,Basic chemical manufacturing,0,Vermont,2016,3251,12215,343843,0.0
+39,Basic chemical manufacturing,1891,Washington,2016,3251,97028,3661925,0.05163950654368945
+40,Basic chemical manufacturing,2015,Arkansas,2016,3251,76421,1327435,0.15179650981027318
+41,Basic chemical manufacturing,541,Utah,2016,3251,54867,1522330,0.03553762981745088
+42,Basic chemical manufacturing,1706,Connecticut,2016,3251,49562,1887269,0.0903951688921929
+43,Basic chemical manufacturing,862,Oregon,2016,3251,92974,2053854,0.0419698771188215
+44,Basic chemical manufacturing,26559,Texas,2016,3251,450208,13398817,0.19821899201996712
+45,Basic chemical manufacturing,2968,West Virginia,2016,3251,45957,775724,0.3826103098524733
+46,Basic chemical manufacturing,4093,South Carolina,2016,3251,143099,2289830,0.17874689387421772
+47,Basic chemical manufacturing,332,Nevada,2016,3251,25744,1427057,0.02326466286910754
+48,Basic chemical manufacturing,3885,North Carolina,2016,3251,262235,4901041,0.07926887369438453
+49,Cement and concrete product manufacturing,3167,South Carolina,2016,3273,143099,2289830,0.13830721057895126
+50,Cement and concrete product manufacturing,3780,Colorado,2016,3273,53580,2899662,0.13036002127144475
+51,Cement and concrete product manufacturing,18235,Texas,2016,3273,450208,13398817,0.1360941044272789
+52,Cement and concrete product manufacturing,3258,Arizona,2016,3273,56602,3252711,0.10016260282576595
+53,Cement and concrete product manufacturing,1767,Utah,2016,3273,54867,1522330,0.11607207372908634
+54,Cement and concrete product manufacturing,261,Alaska,2016,3273,3239,353728,0.07378550750859417
+55,Cement and concrete product manufacturing,4734,Virginia,2016,3273,147694,4262681,0.11105686773183357
+56,Cement and concrete product manufacturing,2396,Alabama,2016,3273,128315,2181837,0.10981571950608592
+57,Cement and concrete product manufacturing,1516,Arkansas,2016,3273,76421,1327435,0.1142052153212775
+58,Cement and concrete product manufacturing,16763,California,2016,3273,517711,19192788,0.08734009879127513
+59,Cement and concrete product manufacturing,1196,Connecticut,2016,3273,49562,1887269,0.06337199413544121
+60,Cement and concrete product manufacturing,341,Delaware,2016,3273,15705,470075,0.07254161569962239
+61,Cement and concrete product manufacturing,3985,Georgia,2016,3273,208481,4993511,0.07980356907194157
+62,Cement and concrete product manufacturing,10323,Florida,2016,3273,153757,9922037,0.1040411359078786
+63,Cement and concrete product manufacturing,4104,Missouri,2016,3273,124148,3093755,0.13265433106370736
+64,Cement and concrete product manufacturing,692,Montana,2016,3273,12495,519979,0.13308229755432432
+65,Cement and concrete product manufacturing,1759,Nebraska,2016,3273,39252,1008515,0.17441485748848554
+66,Cement and concrete product manufacturing,1995,Nevada,2016,3273,25744,1427057,0.1397982000718962
+67,Cement and concrete product manufacturing,932,New Mexico,2016,3273,10553,935358,0.09964099307430951
+68,Cement and concrete product manufacturing,4770,North Carolina,2016,3273,262235,4901041,0.09732626191047984
+69,Cement and concrete product manufacturing,790,North Dakota,2016,3273,8658,427558,0.18477025339252218
+70,Cement and concrete product manufacturing,5380,Ohio,2016,3273,364242,5673884,0.09482040873588533
+71,Cement and concrete product manufacturing,2578,Oklahoma,2016,3273,62254,1835037,0.140487630494644
+72,Cement and concrete product manufacturing,2162,Oregon,2016,3273,92974,2053854,0.105265515465072
+73,Cement and concrete product manufacturing,8217,Pennsylvania,2016,3273,317404,6420121,0.1279882419661561
+74,Cement and concrete product manufacturing,0,Rhode Island,2016,3273,12601,552748,0.0
+75,Cement and concrete product manufacturing,1304,South Dakota,2016,3273,17941,451642,0.2887242550515674
+76,Cement and concrete product manufacturing,462,Vermont,2016,3273,12215,343843,0.13436364852563526
+77,Cement and concrete product manufacturing,735,Maine,2016,3273,31611,690121,0.10650306250643002
+78,Cement and concrete product manufacturing,2038,Kentucky,2016,3273,138085,2012099,0.10128726270427052
+79,Cement and concrete product manufacturing,4062,Indiana,2016,3273,231759,3295293,0.12326673227540008
+80,Cement and concrete product manufacturing,915,Hawaii,2016,3273,4383,699577,0.13079332225044563
+81,Cement and concrete product manufacturing,815,Idaho,2016,3273,28172,805716,0.10115226705191407
+82,Cement and concrete product manufacturing,0,District of Columbia,2016,3273,840,397720,0.0
+83,Cement and concrete product manufacturing,6221,Illinois,2016,3273,335056,6512493,0.09552409499710787
+84,Cement and concrete product manufacturing,3931,Washington,2016,3273,97028,3661925,0.10734791127617305
+85,Cement and concrete product manufacturing,3904,Minnesota,2016,3273,166155,2977719,0.1311070655088677
+86,Cement and concrete product manufacturing,5666,New York,2016,3273,230548,9539259,0.059396647056128786
+87,Cement and concrete product manufacturing,463,New Hampshire,2016,3273,24944,746996,0.061981590262866204
+88,Cement and concrete product manufacturing,3929,Tennessee,2016,3273,188053,3156375,0.12447823848560453
+89,Cement and concrete product manufacturing,4334,Michigan,2016,3273,260972,4831428,0.08970432758182466
+90,Cement and concrete product manufacturing,1045,West Virginia,2016,3273,45957,775724,0.1347128617910494
+91,Cement and concrete product manufacturing,2011,Massachusetts,2016,3273,107215,3587944,0.056048812356045696
+92,Cement and concrete product manufacturing,2098,Maryland,2016,3273,62157,3197318,0.06561749566355302
+93,Cement and concrete product manufacturing,3434,Wisconsin,2016,3273,250012,3108632,0.11046659752585704
+94,Cement and concrete product manufacturing,525,Wyoming,2016,3273,8951,302608,0.17349177814201872
+95,Cement and concrete product manufacturing,2282,Louisiana,2016,3273,107111,2089577,0.10920870587683536
+96,Cement and concrete product manufacturing,1460,Mississippi,2016,3273,60455,1290731,0.11311419652894367
+97,Cement and concrete product manufacturing,3095,New Jersey,2016,3273,161424,4515938,0.06853504188941478
+98,Cement and concrete product manufacturing,2678,Iowa,2016,3273,91133,1690916,0.1583756969595178
+99,Cement and concrete product manufacturing,2766,Kansas,2016,3273,70825,1482709,0.18655042897830929
+100,Chemical manufacturing,4185,Oregon,2016,325,92974,2053854,0.2037632665223526
+101,Chemical manufacturing,20118,Georgia,2016,325,208481,4993511,0.4028828613774957
+102,Chemical manufacturing,309,Hawaii,2016,325,4383,699577,0.04416954816982262
+103,Chemical manufacturing,20697,Indiana,2016,325,231759,3295293,0.6280776853530172
+104,Chemical manufacturing,20305,South Carolina,2016,325,143099,2289830,0.886747051091129
+105,Chemical manufacturing,21011,Louisiana,2016,325,107111,2089577,1.005514513224447
+106,Chemical manufacturing,11,District of Columbia,2016,325,840,397720,0.002765764859700292
+107,Chemical manufacturing,4255,Delaware,2016,325,15705,470075,0.90517470616391
+108,Chemical manufacturing,6951,Connecticut,2016,325,49562,1887269,0.3683099759493745
+109,Chemical manufacturing,15439,Massachusetts,2016,325,107215,3587944,0.43030214518398285
+110,Chemical manufacturing,5141,Arkansas,2016,325,76421,1327435,0.3872882664687913
+111,Chemical manufacturing,29373,Michigan,2016,325,260972,4831428,0.6079569021829571
+112,Chemical manufacturing,4892,Mississippi,2016,325,60455,1290731,0.3790100338490359
+113,Chemical manufacturing,82248,California,2016,325,517711,19192788,0.42853596882328926
+114,Chemical manufacturing,5032,Washington,2016,325,97028,3661925,0.13741406500679287
+115,Chemical manufacturing,2486,Idaho,2016,325,28172,805716,0.3085454428111146
+116,Chemical manufacturing,11901,Alabama,2016,325,128315,2181837,0.5454577954265145
+117,Chemical manufacturing,371,Montana,2016,325,12495,519979,0.07134903524950047
+118,Chemical manufacturing,9554,Utah,2016,325,54867,1522330,0.6275906012494006
+119,Chemical manufacturing,66727,Texas,2016,325,450208,13398817,0.4980066523783406
+120,Chemical manufacturing,6204,Arizona,2016,325,56602,3252711,0.190733206854221
+121,Chemical manufacturing,36277,New York,2016,325,230548,9539259,0.3802915928794889
+122,Chemical manufacturing,166,North Dakota,2016,325,8658,427558,0.03882514185209959
+123,Chemical manufacturing,1599,New Mexico,2016,325,10553,935358,0.17095058790324133
+124,Chemical manufacturing,1344,Vermont,2016,325,12215,343843,0.3908760684382116
+125,Chemical manufacturing,32511,New Jersey,2016,325,161424,4515938,0.7199168810554972
+126,Chemical manufacturing,35319,Ohio,2016,325,364242,5673884,0.6224836461231847
+127,Chemical manufacturing,1329,South Dakota,2016,325,17941,451642,0.2942596127020959
+128,Chemical manufacturing,16567,Florida,2016,325,153757,9922037,0.16697176194767266
+129,Chemical manufacturing,9540,West Virginia,2016,325,45957,775724,1.2298188530972356
+130,Chemical manufacturing,3411,Oklahoma,2016,325,62254,1835037,0.1858818105574983
+131,Chemical manufacturing,16675,Missouri,2016,325,124148,3093755,0.5389890278965206
+132,Chemical manufacturing,58,Alaska,2016,325,3239,353728,0.016396779446354263
+133,Chemical manufacturing,1543,Maine,2016,325,31611,690121,0.22358398020057352
+134,Chemical manufacturing,30514,Pennsylvania,2016,325,317404,6420121,0.4752869922545073
+135,Chemical manufacturing,13552,Kentucky,2016,325,138085,2012099,0.6735255074427252
+136,Chemical manufacturing,8293,Maryland,2016,325,62157,3197318,0.2593736375299548
+137,Chemical manufacturing,2807,Rhode Island,2016,325,12601,552748,0.5078263512486703
+138,Chemical manufacturing,8184,Kansas,2016,325,70825,1482709,0.5519626575410279
+139,Chemical manufacturing,9908,Minnesota,2016,325,166155,2977719,0.33273791113264883
+140,Chemical manufacturing,11164,Iowa,2016,325,91133,1690916,0.6602338614100286
+141,Chemical manufacturing,36380,North Carolina,2016,325,262235,4901041,0.7422912805667204
+142,Chemical manufacturing,1694,New Hampshire,2016,325,24944,746996,0.22677497603735497
+143,Chemical manufacturing,2049,Nevada,2016,325,25744,1427057,0.1435822115024137
+144,Chemical manufacturing,59818,Illinois,2016,325,335056,6512493,0.9185115438895674
+145,Chemical manufacturing,25489,Tennessee,2016,325,188053,3156375,0.8075402954338442
+146,Chemical manufacturing,14664,Virginia,2016,325,147694,4262681,0.34400885264461495
+147,Chemical manufacturing,4983,Nebraska,2016,325,39252,1008515,0.4940927998096211
+148,Chemical manufacturing,2324,Wyoming,2016,325,8951,302608,0.7679902712420029
+149,Chemical manufacturing,14059,Wisconsin,2016,325,250012,3108632,0.45225681264298895
+150,Chemical manufacturing,5159,Colorado,2016,325,53580,2899662,0.1779172882908422
+151,Clay product and refractory manufacturing,3078,Pennsylvania,2016,3271,317404,6420121,0.047943021634638976
+152,Clay product and refractory manufacturing,1088,West Virginia,2016,3271,45957,775724,0.1402560704580495
+153,Clay product and refractory manufacturing,0,New Hampshire,2016,3271,24944,746996,0.0
+154,Clay product and refractory manufacturing,184,Florida,2016,3271,153757,9922037,0.001854457910205334
+155,Clay product and refractory manufacturing,207,Kansas,2016,3271,70825,1482709,0.013960932320502538
+156,Clay product and refractory manufacturing,188,Oregon,2016,3271,92974,2053854,0.009153523083919306
+157,Clay product and refractory manufacturing,0,Arkansas,2016,3271,76421,1327435,0.0
+158,Clay product and refractory manufacturing,202,Iowa,2016,3271,91133,1690916,0.011946187746759745
+159,Clay product and refractory manufacturing,331,Arizona,2016,3271,56602,3252711,0.010176126929198444
+160,Clay product and refractory manufacturing,950,South Carolina,2016,3271,143099,2289830,0.04148779603726041
+161,Clay product and refractory manufacturing,323,Washington,2016,3271,97028,3661925,0.00882049741597657
+162,Clay product and refractory manufacturing,675,Kentucky,2016,3271,138085,2012099,0.0335470570782054
+163,Clay product and refractory manufacturing,433,Missouri,2016,3271,124148,3093755,0.013995936976263473
+164,Clay product and refractory manufacturing,0,South Dakota,2016,3271,17941,451642,0.0
+165,Clay product and refractory manufacturing,37,Delaware,2016,3271,15705,470075,0.007871084401425305
+166,Clay product and refractory manufacturing,1807,Tennessee,2016,3271,188053,3156375,0.057249217852758306
+167,Clay product and refractory manufacturing,31,Connecticut,2016,3271,49562,1887269,0.0016425851322731419
+168,Clay product and refractory manufacturing,238,Vermont,2016,3271,12215,343843,0.06921763711926664
+169,Clay product and refractory manufacturing,0,North Dakota,2016,3271,8658,427558,0.0
+170,Clay product and refractory manufacturing,1791,California,2016,3271,517711,19192788,0.009331630193591468
+171,Clay product and refractory manufacturing,432,Virginia,2016,3271,147694,4262681,0.010134467017353634
+172,Clay product and refractory manufacturing,0,Minnesota,2016,3271,166155,2977719,0.0
+173,Clay product and refractory manufacturing,0,Maine,2016,3271,31611,690121,0.0
+174,Clay product and refractory manufacturing,694,Indiana,2016,3271,231759,3295293,0.021060342737352945
+175,Clay product and refractory manufacturing,0,Mississippi,2016,3271,60455,1290731,0.0
+176,Clay product and refractory manufacturing,1080,Colorado,2016,3271,53580,2899662,0.037245720363269924
+177,Clay product and refractory manufacturing,0,Montana,2016,3271,12495,519979,0.0
+178,Clay product and refractory manufacturing,398,Utah,2016,3271,54867,1522330,0.02614413432041673
+179,Clay product and refractory manufacturing,1261,Alabama,2016,3271,128315,2181837,0.05779533484857026
+180,Clay product and refractory manufacturing,1253,Georgia,2016,3271,208481,4993511,0.025092565131027048
+181,Clay product and refractory manufacturing,2864,Texas,2016,3271,450208,13398817,0.02137502139181392
+182,Clay product and refractory manufacturing,1340,New York,2016,3271,230548,9539259,0.014047212681823608
+183,Clay product and refractory manufacturing,0,Hawaii,2016,3271,4383,699577,0.0
+184,Clay product and refractory manufacturing,984,Oklahoma,2016,3271,62254,1835037,0.053622896977009185
+185,Clay product and refractory manufacturing,0,Nevada,2016,3271,25744,1427057,0.0
+186,Clay product and refractory manufacturing,0,Massachusetts,2016,3271,107215,3587944,0.0
+187,Clay product and refractory manufacturing,573,Illinois,2016,3271,335056,6512493,0.008798473948455683
+188,Clay product and refractory manufacturing,0,New Jersey,2016,3271,161424,4515938,0.0
+189,Clay product and refractory manufacturing,372,Maryland,2016,3271,62157,3197318,0.011634751375997008
+190,Clay product and refractory manufacturing,262,Wisconsin,2016,3271,250012,3108632,0.00842814459865304
+191,Clay product and refractory manufacturing,90,Louisiana,2016,3271,107111,2089577,0.004307091818104813
+192,Clay product and refractory manufacturing,0,New Mexico,2016,3271,10553,935358,0.0
+193,Clay product and refractory manufacturing,349,Michigan,2016,3271,260972,4831428,0.007223537223363362
+194,Clay product and refractory manufacturing,0,Idaho,2016,3271,28172,805716,0.0
+195,Clay product and refractory manufacturing,4373,Ohio,2016,3271,364242,5673884,0.07707242516766293
+196,Clay product and refractory manufacturing,1131,North Carolina,2016,3271,262235,4901041,0.02307673002531503
+197,Clay product and refractory manufacturing,392,Nebraska,2016,3271,39252,1008515,0.03886903020778074
+198,Converted paper product manufacturing,0,Iowa,2016,3222,91133,1690916,0.0
+199,Converted paper product manufacturing,5983,Massachusetts,2016,3222,107215,3587944,0.16675288131587337
+200,Converted paper product manufacturing,9174,Indiana,2016,3222,231759,3295293,0.27839709549348113
+201,Converted paper product manufacturing,1337,Nebraska,2016,3222,39252,1008515,0.13257115660153793
+202,Converted paper product manufacturing,415,New Hampshire,2016,3222,24944,746996,0.055555853043389794
+203,Converted paper product manufacturing,6952,Minnesota,2016,3222,166155,2977719,0.23346729493279925
+204,Converted paper product manufacturing,4399,Arkansas,2016,3222,76421,1327435,0.33139099089597607
+205,Converted paper product manufacturing,0,New Jersey,2016,3222,161424,4515938,0.0
+206,Converted paper product manufacturing,0,Vermont,2016,3222,12215,343843,0.0
+207,Converted paper product manufacturing,16087,Illinois,2016,3222,335056,6512493,0.24701753998046522
+208,Converted paper product manufacturing,0,West Virginia,2016,3222,45957,775724,0.0
+209,Converted paper product manufacturing,14337,Ohio,2016,3222,364242,5673884,0.25268405205323197
+210,Converted paper product manufacturing,12753,North Carolina,2016,3222,262235,4901041,0.2602100247682074
+211,Converted paper product manufacturing,1898,Oregon,2016,3222,92974,2053854,0.09241163198552575
+212,Converted paper product manufacturing,9378,New York,2016,3222,230548,9539259,0.09830952278368792
+213,Converted paper product manufacturing,0,New Mexico,2016,3222,10553,935358,0.0
+214,Converted paper product manufacturing,0,Nevada,2016,3222,25744,1427057,0.0
+215,Converted paper product manufacturing,0,Montana,2016,3222,12495,519979,0.0
+216,Converted paper product manufacturing,0,Missouri,2016,3222,124148,3093755,0.0
+217,Converted paper product manufacturing,0,Maryland,2016,3222,62157,3197318,0.0
+218,Converted paper product manufacturing,2062,Louisiana,2016,3222,107111,2089577,0.09868025921035692
+219,Converted paper product manufacturing,16796,Pennsylvania,2016,3222,317404,6420121,0.2616150069445732
+220,Converted paper product manufacturing,6532,Kentucky,2016,3222,138085,2012099,0.3246361138293891
+221,Converted paper product manufacturing,0,Kansas,2016,3222,70825,1482709,0.0
+222,Converted paper product manufacturing,360,Delaware,2016,3222,15705,470075,0.07658352390575972
+223,Converted paper product manufacturing,11999,Texas,2016,3222,450208,13398817,0.08955268215096901
+224,Converted paper product manufacturing,1567,Connecticut,2016,3222,49562,1887269,0.08303002910554881
+225,Converted paper product manufacturing,17096,Wisconsin,2016,3222,250012,3108632,0.5499525193075282
+226,Converted paper product manufacturing,3778,Washington,2016,3222,97028,3661925,0.10316978092123677
+227,Converted paper product manufacturing,4011,South Carolina,2016,3222,143099,2289830,0.17516584200573843
+228,Converted paper product manufacturing,7448,Tennessee,2016,3222,188053,3156375,0.23596689240030097
+229,Converted paper product manufacturing,2753,Mississippi,2016,3222,60455,1290731,0.21328998838642596
+230,Converted paper product manufacturing,7466,Michigan,2016,3222,260972,4831428,0.1545298822625526
+231,Converted paper product manufacturing,0,Utah,2016,3222,54867,1522330,0.0
+232,Converted paper product manufacturing,1361,Maine,2016,3222,31611,690121,0.19721179329421942
+233,Converted paper product manufacturing,0,Idaho,2016,3222,28172,805716,0.0
+234,Converted paper product manufacturing,8391,Georgia,2016,3222,208481,4993511,0.1680380798199904
+235,Converted paper product manufacturing,0,Rhode Island,2016,3222,12601,552748,0.0
+236,Converted paper product manufacturing,3910,Florida,2016,3222,153757,9922037,0.039407230591863344
+237,Converted paper product manufacturing,0,Arizona,2016,3222,56602,3252711,0.0
+238,Converted paper product manufacturing,2746,Alabama,2016,3222,128315,2181837,0.12585724781457094
+239,Converted paper product manufacturing,19559,California,2016,3222,517711,19192788,0.10190807088579315
+240,Converted paper product manufacturing,3427,Virginia,2016,3222,147694,4262681,0.08039541312146041
+241,Converted paper product manufacturing,1491,Oklahoma,2016,3222,62254,1835037,0.08125176767552916
+242,Converted paper product manufacturing,727,South Dakota,2016,3222,17941,451642,0.16096820047736923
+243,Converted paper product manufacturing,0,North Dakota,2016,3222,8658,427558,0.0
+244,Converted paper product manufacturing,0,Hawaii,2016,3222,4383,699577,0.0
+245,Converted paper product manufacturing,0,Alaska,2016,3222,3239,353728,0.0
+246,Converted paper product manufacturing,1156,Colorado,2016,3222,53580,2899662,0.03986671549994448
+247,Glass and glass product manufacturing,1011,Louisiana,2016,3272,107111,2089577,0.04838299809004406
+248,Glass and glass product manufacturing,738,Kansas,2016,3272,70825,1482709,0.049773758707878625
+249,Glass and glass product manufacturing,0,Delaware,2016,3272,15705,470075,0.0
+250,Glass and glass product manufacturing,4441,New York,2016,3272,230548,9539259,0.04655497874625272
+251,Glass and glass product manufacturing,708,Connecticut,2016,3272,49562,1887269,0.037514524956431754
+252,Glass and glass product manufacturing,1826,Oregon,2016,3272,92974,2053854,0.08890602740019495
+253,Glass and glass product manufacturing,1964,Illinois,2016,3272,335056,6512493,0.030157422050204125
+254,Glass and glass product manufacturing,1470,South Carolina,2016,3272,143099,2289830,0.06419690544712926
+255,Glass and glass product manufacturing,8647,California,2016,3272,517711,19192788,0.04505338150976294
+256,Glass and glass product manufacturing,3593,Texas,2016,3272,450208,13398817,0.02681580023072186
+257,Glass and glass product manufacturing,89,Utah,2016,3272,54867,1522330,0.005846301393259017
+258,Glass and glass product manufacturing,1398,Virginia,2016,3272,147694,4262681,0.032796261320047176
+259,Glass and glass product manufacturing,5294,Indiana,2016,3272,231759,3295293,0.1606533925814791
+260,Glass and glass product manufacturing,0,Nebraska,2016,3272,39252,1008515,0.0
+261,Glass and glass product manufacturing,2145,Washington,2016,3272,97028,3661925,0.05857574909371437
+262,Glass and glass product manufacturing,593,New Hampshire,2016,3272,24944,746996,0.07938462856561482
+263,Glass and glass product manufacturing,2177,Wisconsin,2016,3272,250012,3108632,0.07003080454682317
+264,Glass and glass product manufacturing,58,Idaho,2016,3272,28172,805716,0.007198566244185295
+265,Glass and glass product manufacturing,299,West Virginia,2016,3272,45957,775724,0.03854463701007059
+266,Glass and glass product manufacturing,92,Vermont,2016,3272,12215,343843,0.02675639754190139
+267,Glass and glass product manufacturing,0,Maine,2016,3272,31611,690121,0.0
+268,Glass and glass product manufacturing,4260,New Jersey,2016,3272,161424,4515938,0.09433256169593116
+269,Glass and glass product manufacturing,258,Arkansas,2016,3272,76421,1327435,0.019435979916154086
+270,Glass and glass product manufacturing,8827,Michigan,2016,3272,260972,4831428,0.18269960765223034
+271,Glass and glass product manufacturing,4175,Tennessee,2016,3272,188053,3156375,0.1322719892281494
+272,Glass and glass product manufacturing,0,Hawaii,2016,3272,4383,699577,0.0
+273,Glass and glass product manufacturing,0,Rhode Island,2016,3272,12601,552748,0.0
+274,Glass and glass product manufacturing,0,Alaska,2016,3272,3239,353728,0.0
+275,Glass and glass product manufacturing,250,Maryland,2016,3272,62157,3197318,0.00781905334408401
+276,Glass and glass product manufacturing,992,Alabama,2016,3272,128315,2181837,0.04546627452004893
+277,Glass and glass product manufacturing,1910,Oklahoma,2016,3272,62254,1835037,0.10408509474195889
+278,Glass and glass product manufacturing,1027,Arizona,2016,3272,56602,3252711,0.031573662707815114
+279,Glass and glass product manufacturing,1179,Colorado,2016,3272,53580,2899662,0.040659911396569666
+280,Glass and glass product manufacturing,2048,Florida,2016,3272,153757,9922037,0.02064092282663328
+281,Glass and glass product manufacturing,2691,Georgia,2016,3272,208481,4993511,0.053889938362006215
+282,Glass and glass product manufacturing,7845,Ohio,2016,3272,364242,5673884,0.13826507556375844
+283,Glass and glass product manufacturing,2371,Kentucky,2016,3272,138085,2012099,0.11783714419618518
+284,Glass and glass product manufacturing,4432,North Carolina,2016,3272,262235,4901041,0.09042976787992592
+285,Glass and glass product manufacturing,1065,Massachusetts,2016,3272,107215,3587944,0.02968273752321664
+286,Glass and glass product manufacturing,2666,Minnesota,2016,3272,166155,2977719,0.08953161799350443
+287,Glass and glass product manufacturing,1092,Missouri,2016,3272,124148,3093755,0.0352969126514543
+288,Glass and glass product manufacturing,0,North Dakota,2016,3272,8658,427558,0.0
+289,Glass and glass product manufacturing,772,Iowa,2016,3272,91133,1690916,0.04565572742821051
+290,Glass and glass product manufacturing,4953,Pennsylvania,2016,3272,317404,6420121,0.07714807867328358
+291,Glass and glass product manufacturing,284,Mississippi,2016,3272,60455,1290731,0.022003035489191785
+292,Glass and glass product manufacturing,160,New Mexico,2016,3272,10553,935358,0.017105749884001636
+293,Glass and glass product manufacturing,0,Nevada,2016,3272,25744,1427057,0.0
+294,Lime and gypsum product manufacturing,350,Pennsylvania,2016,3274,317404,6420121,0.0054516106472136585
+295,Lime and gypsum product manufacturing,117,Louisiana,2016,3274,107111,2089577,0.005599219363536256
+296,Lime and gypsum product manufacturing,270,Kansas,2016,3274,70825,1482709,0.01820991172239462
+297,Lime and gypsum product manufacturing,671,Iowa,2016,3274,91133,1690916,0.039682633554830635
+298,Lime and gypsum product manufacturing,137,Illinois,2016,3274,335056,6512493,0.0021036490941333834
+299,Lime and gypsum product manufacturing,685,California,2016,3274,517711,19192788,0.003569048957347937
+300,Lime and gypsum product manufacturing,629,Missouri,2016,3274,124148,3093755,0.020331280272678345
+301,Lime and gypsum product manufacturing,0,Montana,2016,3274,12495,519979,0.0
+302,Lime and gypsum product manufacturing,340,Washington,2016,3274,97028,3661925,0.009284734122080598
+303,Lime and gypsum product manufacturing,580,Nevada,2016,3274,25744,1427057,0.04064308573518787
+304,Lime and gypsum product manufacturing,0,Minnesota,2016,3274,166155,2977719,0.0
+305,Lime and gypsum product manufacturing,375,Georgia,2016,3274,208481,4993511,0.00750974614855159
+306,Lime and gypsum product manufacturing,0,New Mexico,2016,3274,10553,935358,0.0
+307,Lime and gypsum product manufacturing,257,North Carolina,2016,3274,262235,4901041,0.0052437839226401085
+308,Lime and gypsum product manufacturing,780,Virginia,2016,3274,147694,4262681,0.018298343225777395
+309,Lime and gypsum product manufacturing,0,Colorado,2016,3274,53580,2899662,0.0
+310,Lime and gypsum product manufacturing,0,Mississippi,2016,3274,60455,1290731,0.0
+311,Lime and gypsum product manufacturing,0,Delaware,2016,3274,15705,470075,0.0
+312,Lime and gypsum product manufacturing,560,Oklahoma,2016,3274,62254,1835037,0.030517095840574333
+313,Lime and gypsum product manufacturing,0,South Carolina,2016,3274,143099,2289830,0.0
+314,Lime and gypsum product manufacturing,0,Massachusetts,2016,3274,107215,3587944,0.0
+315,Lime and gypsum product manufacturing,167,Utah,2016,3274,54867,1522330,0.0109700262098231
+316,Lime and gypsum product manufacturing,190,Arizona,2016,3274,56602,3252711,0.00584128131887524
+317,Lime and gypsum product manufacturing,322,Michigan,2016,3274,260972,4831428,0.006664696234736397
+318,Lime and gypsum product manufacturing,468,Alabama,2016,3274,128315,2181837,0.021449814995345665
+319,Lime and gypsum product manufacturing,1460,Texas,2016,3274,450208,13398817,0.010896484368731956
+320,Lime and gypsum product manufacturing,83,Oregon,2016,3274,92974,2053854,0.004041183063645225
+321,Lime and gypsum product manufacturing,503,Ohio,2016,3274,364242,5673884,0.008865179478466602
+322,Lime and gypsum product manufacturing,394,Maryland,2016,3274,62157,3197318,0.0123228280702764
+323,Lime and gypsum product manufacturing,707,Kentucky,2016,3274,138085,2012099,0.03513743608043143
+324,Lime and gypsum product manufacturing,445,Florida,2016,3274,153757,9922037,0.004484966141529204
+325,Lime and gypsum product manufacturing,0,Arkansas,2016,3274,76421,1327435,0.0
+326,Lime and gypsum product manufacturing,0,Wyoming,2016,3274,8951,302608,0.0
+327,Lime and gypsum product manufacturing,204,Wisconsin,2016,3274,250012,3108632,0.006562372130248933
+328,Lime and gypsum product manufacturing,686,Indiana,2016,3274,231759,3295293,0.0208175722158849
+329,Lime and gypsum product manufacturing,256,Tennessee,2016,3274,188053,3156375,0.008110569878420657
+330,Lime and gypsum product manufacturing,182,New York,2016,3274,230548,9539259,0.001907905006038729
+331,Lime and gypsum product manufacturing,0,New Hampshire,2016,3274,24944,746996,0.0
+332,Lime and gypsum product manufacturing,0,New Jersey,2016,3274,161424,4515938,0.0
+333,Lime and gypsum product manufacturing,180,West Virginia,2016,3274,45957,775724,0.023204129303721427
+334,Nonmetallic mineral product manufacturing,4522,Kansas,2016,327,70825,1482709,0.30498229929136467
+335,Nonmetallic mineral product manufacturing,6465,Oklahoma,2016,327,62254,1835037,0.35230897251663046
+336,Nonmetallic mineral product manufacturing,696,Wyoming,2016,327,8951,302608,0.23000052873684765
+337,Nonmetallic mineral product manufacturing,1458,New Mexico,2016,327,10553,935358,0.15587614581796488
+338,Nonmetallic mineral product manufacturing,5649,Massachusetts,2016,327,107215,3587944,0.15744392889075193
+339,Nonmetallic mineral product manufacturing,2633,Arkansas,2016,327,76421,1327435,0.19835246170245624
+340,Nonmetallic mineral product manufacturing,5705,Alabama,2016,327,128315,2181837,0.2614769114283056
+341,Nonmetallic mineral product manufacturing,7528,Washington,2016,327,97028,3661925,0.20557493667947868
+342,Nonmetallic mineral product manufacturing,3519,Nevada,2016,327,25744,1427057,0.24659141155538986
+343,Nonmetallic mineral product manufacturing,1044,Montana,2016,327,12495,519979,0.20077733908484766
+344,Nonmetallic mineral product manufacturing,10451,Minnesota,2016,327,166155,2977719,0.3509733457052193
+345,Nonmetallic mineral product manufacturing,3677,Utah,2016,327,54867,1522330,0.24153764295520683
+346,Nonmetallic mineral product manufacturing,3731,Maryland,2016,327,62157,3197318,0.11669155210710977
+347,Nonmetallic mineral product manufacturing,7087,Kentucky,2016,327,138085,2012099,0.35221924964924683
+348,Nonmetallic mineral product manufacturing,4928,Iowa,2016,327,91133,1690916,0.2914396693862972
+349,Nonmetallic mineral product manufacturing,7288,Colorado,2016,327,53580,2899662,0.2513396388958437
+350,Nonmetallic mineral product manufacturing,1215,North Dakota,2016,327,8658,427558,0.2841719719897651
+351,Nonmetallic mineral product manufacturing,1476,New Hampshire,2016,327,24944,746996,0.19759141949889958
+352,Nonmetallic mineral product manufacturing,2450,Connecticut,2016,327,49562,1887269,0.1298172120667483
+353,Nonmetallic mineral product manufacturing,2644,Mississippi,2016,327,60455,1290731,0.20484516138529252
+354,Nonmetallic mineral product manufacturing,33572,Texas,2016,327,450208,13398817,0.2505594337171707
+355,Nonmetallic mineral product manufacturing,1094,Maine,2016,327,31611,690121,0.1585229256898428
+356,Nonmetallic mineral product manufacturing,199,District of Columbia,2016,327,840,397720,0.05003520064366891
+357,Nonmetallic mineral product manufacturing,19463,Pennsylvania,2016,327,317404,6420121,0.30315628007634127
+358,Nonmetallic mineral product manufacturing,370,Rhode Island,2016,327,12601,552748,0.0669382792882109
+359,Nonmetallic mineral product manufacturing,1077,Idaho,2016,327,28172,805716,0.13366992836185454
+360,Nonmetallic mineral product manufacturing,7832,Missouri,2016,327,124148,3093755,0.253155146415925
+361,Nonmetallic mineral product manufacturing,14310,Indiana,2016,327,231759,3295293,0.43425577027596635
+362,Nonmetallic mineral product manufacturing,460,Delaware,2016,327,15705,470075,0.09785672499069298
+363,Nonmetallic mineral product manufacturing,33397,California,2016,327,517711,19192788,0.17400807011467018
+364,Nonmetallic mineral product manufacturing,5226,Arizona,2016,327,56602,3252711,0.16066597985495792
+365,Nonmetallic mineral product manufacturing,13552,Georgia,2016,327,208481,4993511,0.2713922128137898
+366,Nonmetallic mineral product manufacturing,15049,Florida,2016,327,153757,9922037,0.15167248418847865
+367,Nonmetallic mineral product manufacturing,271,Alaska,2016,327,3239,353728,0.07661253844762077
+368,Nonmetallic mineral product manufacturing,8463,Wisconsin,2016,327,250012,3108632,0.272241937932827
+369,Nonmetallic mineral product manufacturing,2958,West Virginia,2016,327,45957,775724,0.3813211915578221
+370,Nonmetallic mineral product manufacturing,9737,Virginia,2016,327,147694,4262681,0.2284243179351211
+371,Nonmetallic mineral product manufacturing,11186,Tennessee,2016,327,188053,3156375,0.3543938853906776
+372,Nonmetallic mineral product manufacturing,1490,South Dakota,2016,327,17941,451642,0.3299073159714996
+373,Nonmetallic mineral product manufacturing,6084,South Carolina,2016,327,143099,2289830,0.2656965800954656
+374,Nonmetallic mineral product manufacturing,5186,Oregon,2016,327,92974,2053854,0.2525009080489655
+375,Nonmetallic mineral product manufacturing,1633,Vermont,2016,327,12215,343843,0.4749260563687497
+376,Nonmetallic mineral product manufacturing,12864,North Carolina,2016,327,262235,4901041,0.2624748497309041
+377,Nonmetallic mineral product manufacturing,15390,New York,2016,327,230548,9539259,0.161333285950198
+378,Nonmetallic mineral product manufacturing,9028,New Jersey,2016,327,161424,4515938,0.19991417065513298
+379,Nonmetallic mineral product manufacturing,2382,Nebraska,2016,327,39252,1008515,0.23618885192585137
+380,Nonmetallic mineral product manufacturing,15668,Michigan,2016,327,260972,4831428,0.3242933559187884
+381,Nonmetallic mineral product manufacturing,3796,Louisiana,2016,327,107111,2089577,0.18166356157250965
+382,Nonmetallic mineral product manufacturing,976,Hawaii,2016,327,4383,699577,0.139512877067142
+383,Nonmetallic mineral product manufacturing,22841,Ohio,2016,327,364242,5673884,0.4025637464565719
+384,Nonmetallic mineral product manufacturing,12131,Illinois,2016,327,335056,6512493,0.1862727529995042
+385,Other chemical product and preparation manufacturing,2998,Pennsylvania,2016,3259,317404,6420121,0.04669693920099014
+386,Other chemical product and preparation manufacturing,648,Rhode Island,2016,3259,12601,552748,0.11723244588854234
+387,Other chemical product and preparation manufacturing,2629,South Carolina,2016,3259,143099,2289830,0.11481201661258697
+388,Other chemical product and preparation manufacturing,0,Vermont,2016,3259,12215,343843,0.0
+389,Other chemical product and preparation manufacturing,6082,Texas,2016,3259,450208,13398817,0.04539206707577243
+390,Other chemical product and preparation manufacturing,325,West Virginia,2016,3259,45957,775724,0.04189634457616369
+391,Other chemical product and preparation manufacturing,167,Wyoming,2016,3259,8951,302608,0.055186908475651664
+392,Other chemical product and preparation manufacturing,1001,Oregon,2016,3259,92974,2053854,0.0487376415266129
+393,Other chemical product and preparation manufacturing,502,South Dakota,2016,3259,17941,451642,0.1111499816226126
+394,Other chemical product and preparation manufacturing,12,North Dakota,2016,3259,8658,427558,0.0028066367603927418
+395,Other chemical product and preparation manufacturing,28,Idaho,2016,3259,28172,805716,0.003475169910986005
+396,Other chemical product and preparation manufacturing,0,Nebraska,2016,3259,39252,1008515,0.0
+397,Other chemical product and preparation manufacturing,1479,Missouri,2016,3259,124148,3093755,0.0478059833438653
+398,Other chemical product and preparation manufacturing,1530,Massachusetts,2016,3259,107215,3587944,0.042642806019268974
+399,Other chemical product and preparation manufacturing,458,Maryland,2016,3259,62157,3197318,0.014324505726361908
+400,Other chemical product and preparation manufacturing,587,Louisiana,2016,3259,107111,2089577,0.02809180996919472
+401,Other chemical product and preparation manufacturing,1503,Kansas,2016,3259,70825,1482709,0.1013685085879967
+402,Other chemical product and preparation manufacturing,1111,Arizona,2016,3259,56602,3252711,0.034156123922475745
+403,Other chemical product and preparation manufacturing,200,Delaware,2016,3259,15705,470075,0.042546402169866514
+404,Other chemical product and preparation manufacturing,0,Alaska,2016,3259,3239,353728,0.0
+405,Other chemical product and preparation manufacturing,717,Alabama,2016,3259,128315,2181837,0.03286221656338214
+406,Other chemical product and preparation manufacturing,220,Nevada,2016,3259,25744,1427057,0.015416342865071262
+407,Other chemical product and preparation manufacturing,1036,Florida,2016,3259,153757,9922037,0.010441404320503944
+408,Other chemical product and preparation manufacturing,300,Washington,2016,3259,97028,3661925,0.008192412460659352
+409,Other chemical product and preparation manufacturing,4332,Illinois,2016,3259,335056,6512493,0.0665183056626702
+410,Other chemical product and preparation manufacturing,5094,New York,2016,3259,230548,9539259,0.05340037418000706
+411,Other chemical product and preparation manufacturing,0,New Mexico,2016,3259,10553,935358,0.0
+412,Other chemical product and preparation manufacturing,123,New Hampshire,2016,3259,24944,746996,0.0164659516249083
+413,Other chemical product and preparation manufacturing,0,Montana,2016,3259,12495,519979,0.0
+414,Other chemical product and preparation manufacturing,2158,Minnesota,2016,3259,166155,2977719,0.0724715797561825
+415,Other chemical product and preparation manufacturing,0,Maine,2016,3259,31611,690121,0.0
+416,Other chemical product and preparation manufacturing,1566,Kentucky,2016,3259,138085,2012099,0.07782917242143653
+417,Other chemical product and preparation manufacturing,1194,Iowa,2016,3259,91133,1690916,0.07061261470114423
+418,Other chemical product and preparation manufacturing,3564,Indiana,2016,3259,231759,3295293,0.10815426731401426
+419,Other chemical product and preparation manufacturing,1406,Connecticut,2016,3259,49562,1887269,0.07449918374116249
+420,Other chemical product and preparation manufacturing,1063,Colorado,2016,3259,53580,2899662,0.036659445135329566
+421,Other chemical product and preparation manufacturing,5782,Ohio,2016,3259,364242,5673884,0.10190550247414293
+422,Other chemical product and preparation manufacturing,5222,California,2016,3259,517711,19192788,0.027208136723023253
+423,Other chemical product and preparation manufacturing,771,Arkansas,2016,3259,76421,1327435,0.05808193998199535
+424,Other chemical product and preparation manufacturing,1312,Wisconsin,2016,3259,250012,3108632,0.04220505997493431
+425,Other chemical product and preparation manufacturing,704,Utah,2016,3259,54867,1522330,0.04624490090847583
+426,Other chemical product and preparation manufacturing,3228,Tennessee,2016,3259,188053,3156375,0.10226921706071046
+427,Other chemical product and preparation manufacturing,0,Oklahoma,2016,3259,62254,1835037,0.0
+428,Other chemical product and preparation manufacturing,2214,North Carolina,2016,3259,262235,4901041,0.045174076282977434
+429,Other chemical product and preparation manufacturing,1932,New Jersey,2016,3259,161424,4515938,0.042781809670549065
+430,Other chemical product and preparation manufacturing,568,Mississippi,2016,3259,60455,1290731,0.04400607097838357
+431,Other chemical product and preparation manufacturing,3164,Michigan,2016,3259,260972,4831428,0.06548788474132286
+432,Other chemical product and preparation manufacturing,3801,Georgia,2016,3259,208481,4993511,0.07611878696171892
+433,Other chemical product and preparation manufacturing,3434,Virginia,2016,3259,147694,4262681,0.08055962902220458
+434,Other nonmetallic mineral product manufacturing,223,Rhode Island,2016,3279,12601,552748,0.040343881841273056
+435,Other nonmetallic mineral product manufacturing,2393,Virginia,2016,3279,147694,4262681,0.05613837864010936
+436,Other nonmetallic mineral product manufacturing,289,Montana,2016,3279,12495,519979,0.05557916762023082
+437,Other nonmetallic mineral product manufacturing,1018,Tennessee,2016,3279,188053,3156375,0.032252188032157146
+438,Other nonmetallic mineral product manufacturing,3237,Illinois,2016,3279,335056,6512493,0.04970446801248001
+439,Other nonmetallic mineral product manufacturing,199,Idaho,2016,3279,28172,805716,0.024698529010221966
+440,Other nonmetallic mineral product manufacturing,1836,Michigan,2016,3279,260972,4831428,0.03800118722663362
+441,Other nonmetallic mineral product manufacturing,33,Hawaii,2016,3279,4383,699577,0.004717136212311154
+442,Other nonmetallic mineral product manufacturing,5248,Georgia,2016,3279,208481,4993511,0.10509639410026332
+443,Other nonmetallic mineral product manufacturing,0,District of Columbia,2016,3279,840,397720,0.0
+444,Other nonmetallic mineral product manufacturing,69,Delaware,2016,3279,15705,470075,0.014678508748603946
+445,Other nonmetallic mineral product manufacturing,7420,Texas,2016,3279,450208,13398817,0.05537802329862405
+446,Other nonmetallic mineral product manufacturing,1257,Utah,2016,3279,54867,1522330,0.08257079608232118
+447,Other nonmetallic mineral product manufacturing,841,Vermont,2016,3279,12215,343843,0.24458837318194643
+448,Other nonmetallic mineral product manufacturing,346,West Virginia,2016,3279,45957,775724,0.04460349299493119
+449,Other nonmetallic mineral product manufacturing,2385,Wisconsin,2016,3279,250012,3108632,0.07672185064041032
+450,Other nonmetallic mineral product manufacturing,0,Wyoming,2016,3279,8951,302608,0.0
+451,Other nonmetallic mineral product manufacturing,789,Washington,2016,3279,97028,3661925,0.021546044771534097
+452,Other nonmetallic mineral product manufacturing,3727,Minnesota,2016,3279,166155,2977719,0.12516291832775356
+453,Other nonmetallic mineral product manufacturing,1892,Massachusetts,2016,3279,107215,3587944,0.052732149665658104
+454,Other nonmetallic mineral product manufacturing,178,South Dakota,2016,3279,17941,451642,0.039411746471763036
+455,Other nonmetallic mineral product manufacturing,0,South Carolina,2016,3279,143099,2289830,0.0
+456,Other nonmetallic mineral product manufacturing,928,Oregon,2016,3279,92974,2053854,0.04518334798870806
+457,Other nonmetallic mineral product manufacturing,4739,Ohio,2016,3279,364242,5673884,0.08352303289950941
+458,Other nonmetallic mineral product manufacturing,296,Louisiana,2016,3279,107111,2089577,0.01416554642398916
+459,Other nonmetallic mineral product manufacturing,425,Arkansas,2016,3279,76421,1327435,0.03201663358281196
+460,Other nonmetallic mineral product manufacturing,2048,Florida,2016,3279,153757,9922037,0.02064092282663328
+461,Other nonmetallic mineral product manufacturing,3574,Indiana,2016,3279,231759,3295293,0.10845773046584933
+462,Other nonmetallic mineral product manufacturing,540,Kansas,2016,3279,70825,1482709,0.03641982344478924
+463,Other nonmetallic mineral product manufacturing,1296,Kentucky,2016,3279,138085,2012099,0.06441034959015436
+464,Other nonmetallic mineral product manufacturing,616,Maryland,2016,3279,62157,3197318,0.019266147439823002
+465,Other nonmetallic mineral product manufacturing,5511,California,2016,3279,517711,19192788,0.028713910662692674
+466,Other nonmetallic mineral product manufacturing,202,New Mexico,2016,3279,10553,935358,0.021596009228552062
+467,Other nonmetallic mineral product manufacturing,0,Colorado,2016,3279,53580,2899662,0.0
+468,Other nonmetallic mineral product manufacturing,649,Mississippi,2016,3279,60455,1290731,0.050281584621427705
+469,Other nonmetallic mineral product manufacturing,1574,Missouri,2016,3279,124148,3093755,0.05087668545182149
+470,Other nonmetallic mineral product manufacturing,605,Iowa,2016,3279,91133,1690916,0.035779423696978445
+471,Other nonmetallic mineral product manufacturing,218,Nebraska,2016,3279,39252,1008515,0.021615940268612764
+472,Other nonmetallic mineral product manufacturing,762,Nevada,2016,3279,25744,1427057,0.05339660574174682
+473,Other nonmetallic mineral product manufacturing,208,New Hampshire,2016,3279,24944,746996,0.027844861284397775
+474,Other nonmetallic mineral product manufacturing,1274,New Jersey,2016,3279,161424,4515938,0.028211193333478005
+475,Other nonmetallic mineral product manufacturing,3762,New York,2016,3279,230548,9539259,0.03943702545449285
+476,Other nonmetallic mineral product manufacturing,88,Maine,2016,3279,31611,690121,0.012751387075599785
+477,Other nonmetallic mineral product manufacturing,421,Arizona,2016,3279,56602,3252711,0.012943049659191979
+478,Other nonmetallic mineral product manufacturing,515,Connecticut,2016,3279,49562,1887269,0.027288107842602195
+479,Other nonmetallic mineral product manufacturing,2274,North Carolina,2016,3279,262235,4901041,0.04639830599254322
+480,Other nonmetallic mineral product manufacturing,0,North Dakota,2016,3279,8658,427558,0.0
+481,Other nonmetallic mineral product manufacturing,588,Alabama,2016,3279,128315,2181837,0.026949767558254813
+482,Other nonmetallic mineral product manufacturing,433,Oklahoma,2016,3279,62254,1835037,0.02359625446244408
+483,Other nonmetallic mineral product manufacturing,2864,Pennsylvania,2016,3279,317404,6420121,0.04460975112462834
+484,Other nonmetallic mineral product manufacturing,0,Alaska,2016,3279,3239,353728,0.0
+485,Other wood product manufacturing,876,Connecticut,2016,3219,49562,1887269,0.04641627664100878
+486,Other wood product manufacturing,4905,Florida,2016,3219,153757,9922037,0.049435413312810664
+487,Other wood product manufacturing,6828,New York,2016,3219,230548,9539259,0.07157788671006836
+488,Other wood product manufacturing,3433,Idaho,2016,3219,28172,805716,0.42608065372910553
+489,Other wood product manufacturing,763,New Mexico,2016,3219,10553,935358,0.08157304475933279
+490,Other wood product manufacturing,5256,Illinois,2016,3219,335056,6512493,0.08070642072091287
+491,Other wood product manufacturing,1540,Kansas,2016,3219,70825,1482709,0.10386394093513966
+492,Other wood product manufacturing,1250,Louisiana,2016,3219,107111,2089577,0.05982071969590017
+493,Other wood product manufacturing,4853,Missouri,2016,3219,124148,3093755,0.15686439294643564
+494,Other wood product manufacturing,2037,Colorado,2016,3219,53580,2899662,0.07024956701850078
+495,Other wood product manufacturing,7719,Ohio,2016,3219,364242,5673884,0.13604437454131948
+496,Other wood product manufacturing,4080,South Carolina,2016,3219,143099,2289830,0.17817916613897103
+497,Other wood product manufacturing,895,South Dakota,2016,3219,17941,451642,0.19816580388892086
+498,Other wood product manufacturing,8736,Tennessee,2016,3219,188053,3156375,0.27677319710110493
+499,Other wood product manufacturing,16316,Texas,2016,3219,450208,13398817,0.12177194449330862
+500,Other wood product manufacturing,4281,Washington,2016,3219,97028,3661925,0.11690572581360896
+501,Other wood product manufacturing,3312,West Virginia,2016,3219,45957,775724,0.4269559791884743
+502,Other wood product manufacturing,2930,Mississippi,2016,3219,60455,1290731,0.22700314782863354
+503,Other wood product manufacturing,15822,California,2016,3219,517711,19192788,0.08243721547906432
+504,Other wood product manufacturing,7044,Virginia,2016,3219,147694,4262681,0.16524811497740508
+505,Other wood product manufacturing,10654,Minnesota,2016,3219,166155,2977719,0.35779064444966097
+506,Other wood product manufacturing,972,Vermont,2016,3219,12215,343843,0.2826871566383495
+507,Other wood product manufacturing,7299,Kentucky,2016,3219,138085,2012099,0.36275551053899435
+508,Other wood product manufacturing,1368,Massachusetts,2016,3219,107215,3587944,0.03812768538193461
+509,Other wood product manufacturing,1295,Utah,2016,3219,54867,1522330,0.08506696971090368
+510,Other wood product manufacturing,284,Nevada,2016,3219,25744,1427057,0.019901097153091993
+511,Other wood product manufacturing,1009,New Hampshire,2016,3219,24944,746996,0.13507435113441035
+512,Other wood product manufacturing,2056,New Jersey,2016,3219,161424,4515938,0.04552764010489072
+513,Other wood product manufacturing,362,Rhode Island,2016,3219,12601,552748,0.06549096514143878
+514,Other wood product manufacturing,14465,Pennsylvania,2016,3219,317404,6420121,0.2253072800341302
+515,Other wood product manufacturing,11956,North Carolina,2016,3219,262235,4901041,0.24394817345947525
+516,Other wood product manufacturing,1010,Oklahoma,2016,3219,62254,1835037,0.05503976214103585
+517,Other wood product manufacturing,6960,Alabama,2016,3219,128315,2181837,0.3189972486487304
+518,Other wood product manufacturing,3233,Arizona,2016,3219,56602,3252711,0.09939401317854551
+519,Other wood product manufacturing,2563,Arkansas,2016,3219,76421,1327435,0.1930791338182284
+520,Other wood product manufacturing,7462,Georgia,2016,3219,208481,4993511,0.14943393536131191
+521,Other wood product manufacturing,1881,Maine,2016,3219,31611,690121,0.2725608987409454
+522,Other wood product manufacturing,5842,Michigan,2016,3219,260972,4831428,0.12091663168736033
+523,Other wood product manufacturing,1348,North Dakota,2016,3219,8658,427558,0.3152788627507847
+524,Other wood product manufacturing,1415,Nebraska,2016,3219,39252,1008515,0.14030530036737182
+525,Other wood product manufacturing,9964,Indiana,2016,3219,231759,3295293,0.30237068448845067
+526,Other wood product manufacturing,1421,Maryland,2016,3219,62157,3197318,0.04444349920777351
+527,Other wood product manufacturing,424,Montana,2016,3219,12495,519979,0.08154175457085766
+528,Other wood product manufacturing,113,Alaska,2016,3219,3239,353728,0.03194544961100054
+529,Other wood product manufacturing,8131,Oregon,2016,3219,92974,2053854,0.3958898733795099
+530,Other wood product manufacturing,75,Delaware,2016,3219,15705,470075,0.015954900813699942
+531,Other wood product manufacturing,119,Wyoming,2016,3219,8951,302608,0.03932480304552424
+532,Other wood product manufacturing,7614,Iowa,2016,3219,91133,1690916,0.45028848269222127
+533,Other wood product manufacturing,49,Hawaii,2016,3219,4383,699577,0.007004232557674138
+534,Other wood product manufacturing,14154,Wisconsin,2016,3219,250012,3108632,0.4553128192722715
+535,"Paint, coating, and adhesive manufacturing",0,Alaska,2016,3255,3239,353728,0.0
+536,"Paint, coating, and adhesive manufacturing",113,West Virginia,2016,3255,45957,775724,0.014567036729558452
+537,"Paint, coating, and adhesive manufacturing",64,Mississippi,2016,3255,60455,1290731,0.004958430532775613
+538,"Paint, coating, and adhesive manufacturing",928,Virginia,2016,3255,147694,4262681,0.02177033655579669
+539,"Paint, coating, and adhesive manufacturing",210,Utah,2016,3255,54867,1522330,0.013794643736903298
+540,"Paint, coating, and adhesive manufacturing",1009,South Carolina,2016,3255,143099,2289830,0.04406440652799553
+541,"Paint, coating, and adhesive manufacturing",426,Oregon,2016,3255,92974,2053854,0.020741493796540552
+542,"Paint, coating, and adhesive manufacturing",264,Colorado,2016,3255,53580,2899662,0.009104509422132648
+543,"Paint, coating, and adhesive manufacturing",4754,Illinois,2016,3255,335056,6512493,0.07299815907671608
+544,"Paint, coating, and adhesive manufacturing",496,Oklahoma,2016,3255,62254,1835037,0.027029427744508696
+545,"Paint, coating, and adhesive manufacturing",268,Nevada,2016,3255,25744,1427057,0.01877990858108681
+546,"Paint, coating, and adhesive manufacturing",1333,New Jersey,2016,3255,161424,4515938,0.029517677169172828
+547,"Paint, coating, and adhesive manufacturing",20,Nebraska,2016,3255,39252,1008515,0.0019831137861112623
+548,"Paint, coating, and adhesive manufacturing",1166,Minnesota,2016,3255,166155,2977719,0.03915748933999481
+549,"Paint, coating, and adhesive manufacturing",1398,Tennessee,2016,3255,188053,3156375,0.0442913151954378
+550,"Paint, coating, and adhesive manufacturing",224,Kansas,2016,3255,70825,1482709,0.015107482317838497
+551,"Paint, coating, and adhesive manufacturing",3600,California,2016,3255,517711,19192788,0.018757045615259232
+552,"Paint, coating, and adhesive manufacturing",0,Delaware,2016,3255,15705,470075,0.0
+553,"Paint, coating, and adhesive manufacturing",344,Iowa,2016,3255,91133,1690916,0.02034400289547204
+554,"Paint, coating, and adhesive manufacturing",0,District of Columbia,2016,3255,840,397720,0.0
+555,"Paint, coating, and adhesive manufacturing",821,Florida,2016,3255,153757,9922037,0.008274510566731409
+556,"Paint, coating, and adhesive manufacturing",1101,New York,2016,3255,230548,9539259,0.011541776987080444
+557,"Paint, coating, and adhesive manufacturing",1297,Indiana,2016,3255,231759,3295293,0.039359170793006874
+558,"Paint, coating, and adhesive manufacturing",229,Arkansas,2016,3255,76421,1327435,0.017251315506973976
+559,"Paint, coating, and adhesive manufacturing",5,Idaho,2016,3255,28172,805716,0.0006205660555332152
+560,"Paint, coating, and adhesive manufacturing",354,Arizona,2016,3255,56602,3252711,0.010883229404641237
+561,"Paint, coating, and adhesive manufacturing",0,Maine,2016,3255,31611,690121,0.0
+562,"Paint, coating, and adhesive manufacturing",4664,Michigan,2016,3255,260972,4831428,0.0965346063317098
+563,"Paint, coating, and adhesive manufacturing",5,Montana,2016,3255,12495,519979,0.0009615772944676612
+564,"Paint, coating, and adhesive manufacturing",47,New Hampshire,2016,3255,24944,746996,0.006291867694070651
+565,"Paint, coating, and adhesive manufacturing",15,New Mexico,2016,3255,10553,935358,0.0016036640516251532
+566,"Paint, coating, and adhesive manufacturing",2673,Wisconsin,2016,3255,250012,3108632,0.08598637600076176
+567,"Paint, coating, and adhesive manufacturing",75,Vermont,2016,3255,12215,343843,0.021812280604810916
+568,"Paint, coating, and adhesive manufacturing",5,Wyoming,2016,3255,8951,302608,0.0016523026489716067
+569,"Paint, coating, and adhesive manufacturing",1035,Alabama,2016,3255,128315,2181837,0.047437090855091374
+570,"Paint, coating, and adhesive manufacturing",181,Washington,2016,3255,97028,3661925,0.0049427555179311425
+571,"Paint, coating, and adhesive manufacturing",0,Rhode Island,2016,3255,12601,552748,0.0
+572,"Paint, coating, and adhesive manufacturing",3338,Pennsylvania,2016,3255,317404,6420121,0.05199278954399769
+573,"Paint, coating, and adhesive manufacturing",6631,Ohio,2016,3255,364242,5673884,0.11686879745867204
+574,"Paint, coating, and adhesive manufacturing",1974,North Carolina,2016,3255,262235,4901041,0.040277157444714294
+575,"Paint, coating, and adhesive manufacturing",2035,Missouri,2016,3255,124148,3093755,0.06577767147042994
+576,"Paint, coating, and adhesive manufacturing",1095,Massachusetts,2016,3255,107215,3587944,0.03051887097457485
+577,"Paint, coating, and adhesive manufacturing",418,Connecticut,2016,3255,49562,1887269,0.022148405977102364
+578,"Paint, coating, and adhesive manufacturing",996,Maryland,2016,3255,62157,3197318,0.0311511085228307
+579,"Paint, coating, and adhesive manufacturing",1651,Kentucky,2016,3255,138085,2012099,0.08205361664609942
+580,"Paint, coating, and adhesive manufacturing",4587,Texas,2016,3255,450208,13398817,0.03423436561600923
+581,"Paint, coating, and adhesive manufacturing",511,Louisiana,2016,3255,107111,2089577,0.02445471021168399
+582,"Paint, coating, and adhesive manufacturing",2249,Georgia,2016,3255,208481,4993511,0.04503845090158007
+583,Paper manufacturing,360,Delaware,2016,322,15705,470075,0.07658352390575972
+584,Paper manufacturing,16487,Ohio,2016,322,364242,5673884,0.29057696632500774
+585,Paper manufacturing,727,South Dakota,2016,322,17941,451642,0.16096820047736923
+586,Paper manufacturing,7337,Washington,2016,322,97028,3661925,0.20035910074619223
+587,Paper manufacturing,27528,Wisconsin,2016,322,250012,3108632,0.8855342156935913
+588,Paper manufacturing,732,Rhode Island,2016,322,12601,552748,0.13242924442964968
+589,Paper manufacturing,10141,South Carolina,2016,322,143099,2289830,0.4428713048566924
+590,Paper manufacturing,22007,Pennsylvania,2016,322,317404,6420121,0.3427817014663742
+591,Paper manufacturing,4024,Oregon,2016,322,92974,2053854,0.19592434515793236
+592,Paper manufacturing,648,Vermont,2016,322,12215,343843,0.18845810442556632
+593,Paper manufacturing,3672,Oklahoma,2016,322,62254,1835037,0.20010495701176598
+594,Paper manufacturing,15979,North Carolina,2016,322,262235,4901041,0.32603277548586107
+595,Paper manufacturing,0,North Dakota,2016,322,8658,427558,0.0
+596,Paper manufacturing,13256,New York,2016,322,230548,9539259,0.138962575604667
+597,Paper manufacturing,6338,Virginia,2016,322,147694,4262681,0.1486857684166373
+598,Paper manufacturing,825,New Hampshire,2016,322,24944,746996,0.1104423584597508
+599,Paper manufacturing,1337,Nebraska,2016,322,39252,1008515,0.13257115660153793
+600,Paper manufacturing,8317,Arkansas,2016,322,76421,1327435,0.6265466859017579
+601,Paper manufacturing,9426,Minnesota,2016,322,166155,2977719,0.31655102445865446
+602,Paper manufacturing,16719,Illinois,2016,322,335056,6512493,0.2567219649986572
+603,Paper manufacturing,10879,Michigan,2016,322,260972,4831428,0.22517152278787972
+604,Paper manufacturing,7294,Massachusetts,2016,322,107215,3587944,0.20329191314022738
+605,Paper manufacturing,9824,Indiana,2016,322,231759,3295293,0.2981222003627599
+606,Paper manufacturing,2578,Maryland,2016,322,62157,3197318,0.08063007808419431
+607,Paper manufacturing,3731,Iowa,2016,322,91133,1690916,0.22064963605525054
+608,Paper manufacturing,6984,New Jersey,2016,322,161424,4515938,0.1546522560761463
+609,Paper manufacturing,10319,Tennessee,2016,322,188053,3156375,0.3269256663102451
+610,Paper manufacturing,8730,Kentucky,2016,322,138085,2012099,0.4338752715447898
+611,Paper manufacturing,7464,Florida,2016,322,153757,9922037,0.07522648827050334
+612,Paper manufacturing,1897,Arizona,2016,322,56602,3252711,0.05832058243108594
+613,Paper manufacturing,9952,Alabama,2016,322,128315,2181837,0.45612939921726503
+614,Paper manufacturing,0,New Mexico,2016,322,10553,935358,0.0
+615,Paper manufacturing,16479,Georgia,2016,322,208481,4993511,0.3300082847519511
+616,Paper manufacturing,0,Hawaii,2016,322,4383,699577,0.0
+617,Paper manufacturing,2085,Idaho,2016,322,28172,805716,0.25877604515735075
+618,Paper manufacturing,1514,Kansas,2016,322,70825,1482709,0.10211039388039055
+619,Paper manufacturing,6634,Louisiana,2016,322,107111,2089577,0.3174805235700814
+620,Paper manufacturing,2603,Utah,2016,322,54867,1522330,0.17098789355790137
+621,Paper manufacturing,5314,Maine,2016,322,31611,690121,0.7700098968151962
+622,Paper manufacturing,477,West Virginia,2016,322,45957,775724,0.061490942654861776
+623,Paper manufacturing,14299,Texas,2016,322,450208,13398817,0.10671837670445083
+624,Paper manufacturing,2683,Connecticut,2016,322,49562,1887269,0.1421630938673819
+625,Paper manufacturing,898,Nevada,2016,322,25744,1427057,0.06292670860379088
+626,Paper manufacturing,0,Montana,2016,322,12495,519979,0.0
+627,Paper manufacturing,1156,Colorado,2016,322,53580,2899662,0.03986671549994448
+628,Paper manufacturing,7607,Missouri,2016,322,124148,3093755,0.2458824308970814
+629,Paper manufacturing,20745,California,2016,322,517711,19192788,0.10808747535793133
+630,Paper manufacturing,0,Alaska,2016,322,3239,353728,0.0
+631,Paper manufacturing,4430,Mississippi,2016,322,60455,1290731,0.343216363440562
+632,"Pesticide, fertilizer, and other agricultural chemical manufacturing",426,Nebraska,2016,3253,39252,1008515,0.042240323644169894
+633,"Pesticide, fertilizer, and other agricultural chemical manufacturing",750,Oklahoma,2016,3253,62254,1835037,0.0408711105007692
+634,"Pesticide, fertilizer, and other agricultural chemical manufacturing",3329,Florida,2016,3253,153757,9922037,0.03355157816887803
+635,"Pesticide, fertilizer, and other agricultural chemical manufacturing",663,New York,2016,3253,230548,9539259,0.006950225379141085
+636,"Pesticide, fertilizer, and other agricultural chemical manufacturing",0,Alaska,2016,3253,3239,353728,0.0
+637,"Pesticide, fertilizer, and other agricultural chemical manufacturing",216,Arizona,2016,3253,56602,3252711,0.006640614551984483
+638,"Pesticide, fertilizer, and other agricultural chemical manufacturing",0,Delaware,2016,3253,15705,470075,0.0
+639,"Pesticide, fertilizer, and other agricultural chemical manufacturing",66,New Mexico,2016,3253,10553,935358,0.007056121827150674
+640,"Pesticide, fertilizer, and other agricultural chemical manufacturing",69,Hawaii,2016,3253,4383,699577,0.009863102989377866
+641,"Pesticide, fertilizer, and other agricultural chemical manufacturing",693,Idaho,2016,3253,28172,805716,0.08601045529690363
+642,"Pesticide, fertilizer, and other agricultural chemical manufacturing",286,Indiana,2016,3253,231759,3295293,0.008679046142482626
+643,"Pesticide, fertilizer, and other agricultural chemical manufacturing",1732,Iowa,2016,3253,91133,1690916,0.10242968899696969
+644,"Pesticide, fertilizer, and other agricultural chemical manufacturing",419,Kansas,2016,3253,70825,1482709,0.028259085228456833
+645,"Pesticide, fertilizer, and other agricultural chemical manufacturing",161,Maine,2016,3253,31611,690121,0.023329242263313246
+646,"Pesticide, fertilizer, and other agricultural chemical manufacturing",537,Oregon,2016,3253,92974,2053854,0.026145967532258868
+647,"Pesticide, fertilizer, and other agricultural chemical manufacturing",395,Michigan,2016,3253,260972,4831428,0.00817563668546856
+648,"Pesticide, fertilizer, and other agricultural chemical manufacturing",1846,California,2016,3253,517711,19192788,0.00961819616826904
+649,"Pesticide, fertilizer, and other agricultural chemical manufacturing",0,Wyoming,2016,3253,8951,302608,0.0
+650,"Pesticide, fertilizer, and other agricultural chemical manufacturing",227,Minnesota,2016,3253,166155,2977719,0.007623284802897789
+651,"Pesticide, fertilizer, and other agricultural chemical manufacturing",88,Montana,2016,3253,12495,519979,0.016923760382630836
+652,"Pesticide, fertilizer, and other agricultural chemical manufacturing",2321,Louisiana,2016,3253,107111,2089577,0.11107511233134745
+653,"Pesticide, fertilizer, and other agricultural chemical manufacturing",22,New Hampshire,2016,3253,24944,746996,0.0029451295589266874
+654,"Pesticide, fertilizer, and other agricultural chemical manufacturing",316,Maryland,2016,3253,62157,3197318,0.00988328342692219
+655,"Pesticide, fertilizer, and other agricultural chemical manufacturing",1840,Texas,2016,3253,450208,13398817,0.01373255564278548
+656,"Pesticide, fertilizer, and other agricultural chemical manufacturing",134,Massachusetts,2016,3253,107215,3587944,0.003734729416066694
+657,"Pesticide, fertilizer, and other agricultural chemical manufacturing",302,Tennessee,2016,3253,188053,3156375,0.009567937903449368
+658,"Pesticide, fertilizer, and other agricultural chemical manufacturing",0,Vermont,2016,3253,12215,343843,0.0
+659,"Pesticide, fertilizer, and other agricultural chemical manufacturing",203,Virginia,2016,3253,147694,4262681,0.004762261121580526
+660,"Pesticide, fertilizer, and other agricultural chemical manufacturing",0,South Dakota,2016,3253,17941,451642,0.0
+661,"Pesticide, fertilizer, and other agricultural chemical manufacturing",890,Ohio,2016,3253,364242,5673884,0.015685904047386234
+662,"Pesticide, fertilizer, and other agricultural chemical manufacturing",1285,North Carolina,2016,3253,262235,4901041,0.02621891961320054
+663,"Pesticide, fertilizer, and other agricultural chemical manufacturing",215,New Jersey,2016,3253,161424,4515938,0.004760915672447231
+664,"Pesticide, fertilizer, and other agricultural chemical manufacturing",156,Utah,2016,3253,54867,1522330,0.010247449633128165
+665,"Pesticide, fertilizer, and other agricultural chemical manufacturing",34,Nevada,2016,3253,25744,1427057,0.002382525715511013
+666,"Pesticide, fertilizer, and other agricultural chemical manufacturing",3162,Missouri,2016,3253,124148,3093755,0.10220589542481548
+667,"Pesticide, fertilizer, and other agricultural chemical manufacturing",112,Kentucky,2016,3253,138085,2012099,0.005566326507791118
+668,"Pesticide, fertilizer, and other agricultural chemical manufacturing",1232,Georgia,2016,3253,208481,4993511,0.02467201934670816
+669,"Pesticide, fertilizer, and other agricultural chemical manufacturing",243,Connecticut,2016,3253,49562,1887269,0.012875747972334626
+670,"Pesticide, fertilizer, and other agricultural chemical manufacturing",782,Alabama,2016,3253,128315,2181837,0.03584135753495792
+671,"Pesticide, fertilizer, and other agricultural chemical manufacturing",935,Wisconsin,2016,3253,250012,3108632,0.03007753893030761
+672,"Pesticide, fertilizer, and other agricultural chemical manufacturing",140,South Carolina,2016,3253,143099,2289830,0.006113990994964692
+673,"Pesticide, fertilizer, and other agricultural chemical manufacturing",515,Pennsylvania,2016,3253,317404,6420121,0.008021655666614384
+674,"Pesticide, fertilizer, and other agricultural chemical manufacturing",577,Washington,2016,3253,97028,3661925,0.01575673996600149
+675,"Pesticide, fertilizer, and other agricultural chemical manufacturing",498,Mississippi,2016,3253,60455,1290731,0.038582787583160236
+676,"Pesticide, fertilizer, and other agricultural chemical manufacturing",417,West Virginia,2016,3253,45957,775724,0.05375623288695464
+677,"Pesticide, fertilizer, and other agricultural chemical manufacturing",380,Arkansas,2016,3253,76421,1327435,0.028626637085808346
+678,"Pesticide, fertilizer, and other agricultural chemical manufacturing",120,Colorado,2016,3253,53580,2899662,0.004138413373696658
+679,"Pesticide, fertilizer, and other agricultural chemical manufacturing",845,Illinois,2016,3253,335056,6512493,0.01297506193096868
+680,Petroleum and coal products manufacturing,0,Idaho,2016,3241,28172,805716,0.0
+681,Petroleum and coal products manufacturing,1016,Missouri,2016,3241,124148,3093755,0.032840350965089346
+682,Petroleum and coal products manufacturing,137,Maine,2016,3241,31611,690121,0.01985159124269512
+683,Petroleum and coal products manufacturing,382,Iowa,2016,3241,91133,1690916,0.02259130554090209
+684,Petroleum and coal products manufacturing,0,Hawaii,2016,3241,4383,699577,0.0
+685,Petroleum and coal products manufacturing,5577,Ohio,2016,324,364242,5673884,0.09829245715985734
+686,Petroleum and coal products manufacturing,243,Connecticut,2016,3241,49562,1887269,0.012875747972334626
+687,Petroleum and coal products manufacturing,307,Arizona,2016,324,56602,3252711,0.009438280867866834
+688,Petroleum and coal products manufacturing,1137,Arkansas,2016,324,76421,1327435,0.08565391149095812
+689,Petroleum and coal products manufacturing,11769,California,2016,324,517711,19192788,0.06131990829055164
+690,Petroleum and coal products manufacturing,814,Colorado,2016,324,53580,2899662,0.028072237384909
+691,Petroleum and coal products manufacturing,243,Connecticut,2016,324,49562,1887269,0.012875747972334626
+692,Petroleum and coal products manufacturing,678,Delaware,2016,324,15705,470075,0.14423230335584747
+693,Petroleum and coal products manufacturing,748,Florida,2016,324,153757,9922037,0.007538774548008639
+694,Petroleum and coal products manufacturing,1078,Georgia,2016,324,208481,4993511,0.02158801692836964
+695,Petroleum and coal products manufacturing,0,Hawaii,2016,324,4383,699577,0.0
+696,Petroleum and coal products manufacturing,0,Idaho,2016,324,28172,805716,0.0
+697,Petroleum and coal products manufacturing,3953,Indiana,2016,324,231759,3295293,0.11995898392039797
+698,Petroleum and coal products manufacturing,382,Iowa,2016,324,91133,1690916,0.02259130554090209
+699,Petroleum and coal products manufacturing,10116,Louisiana,2016,324,107111,2089577,0.4841171203549809
+700,Petroleum and coal products manufacturing,137,Maine,2016,324,31611,690121,0.01985159124269512
+701,Petroleum and coal products manufacturing,1913,Michigan,2016,324,260972,4831428,0.039594918934940146
+702,Petroleum and coal products manufacturing,1963,Mississippi,2016,324,60455,1290731,0.152084361497477
+703,Petroleum and coal products manufacturing,1016,Missouri,2016,324,124148,3093755,0.032840350965089346
+704,Petroleum and coal products manufacturing,1146,Montana,2016,324,12495,519979,0.22039351589198797
+705,Petroleum and coal products manufacturing,23,Nebraska,2016,324,39252,1008515,0.002280580854027952
+706,Petroleum and coal products manufacturing,118,New Hampshire,2016,324,24944,746996,0.015796603997879508
+707,Petroleum and coal products manufacturing,728,New Mexico,2016,324,10553,935358,0.07783116197220744
+708,Petroleum and coal products manufacturing,37,Rhode Island,2016,324,12601,552748,0.00669382792882109
+709,Petroleum and coal products manufacturing,2687,Washington,2016,324,97028,3661925,0.07337670760597227
+710,Petroleum and coal products manufacturing,534,Wisconsin,2016,324,250012,3108632,0.017177974105651618
+711,Petroleum and coal products manufacturing,1110,Wyoming,2016,324,8951,302608,0.3668111880716967
+712,Petroleum and coal products manufacturing,307,Arizona,2016,3241,56602,3252711,0.009438280867866834
+713,Petroleum and coal products manufacturing,11769,California,2016,3241,517711,19192788,0.06131990829055164
+714,Petroleum and coal products manufacturing,678,Delaware,2016,3241,15705,470075,0.14423230335584747
+715,Petroleum and coal products manufacturing,23,Nebraska,2016,3241,39252,1008515,0.002280580854027952
+716,Petroleum and coal products manufacturing,700,Virginia,2016,3241,147694,4262681,0.01642159007441561
+717,Petroleum and coal products manufacturing,728,New Mexico,2016,3241,10553,935358,0.07783116197220744
+718,Petroleum and coal products manufacturing,118,New Hampshire,2016,3241,24944,746996,0.015796603997879508
+719,Petroleum and coal products manufacturing,0,North Dakota,2016,3241,8658,427558,0.0
+720,Petroleum and coal products manufacturing,2461,Oklahoma,2016,324,62254,1835037,0.13411173725652398
+721,Petroleum and coal products manufacturing,2461,Oklahoma,2016,3241,62254,1835037,0.13411173725652398
+722,Petroleum and coal products manufacturing,570,Oregon,2016,324,92974,2053854,0.02775270296720215
+723,Petroleum and coal products manufacturing,5627,Pennsylvania,2016,324,317404,6420121,0.08764632317677501
+724,Petroleum and coal products manufacturing,5627,Pennsylvania,2016,3241,317404,6420121,0.08764632317677501
+725,Petroleum and coal products manufacturing,136,South Carolina,2016,324,143099,2289830,0.0059393055379657
+726,Petroleum and coal products manufacturing,136,South Carolina,2016,3241,143099,2289830,0.0059393055379657
+727,Petroleum and coal products manufacturing,917,Tennessee,2016,324,188053,3156375,0.029052314759811494
+728,Petroleum and coal products manufacturing,917,Tennessee,2016,3241,188053,3156375,0.029052314759811494
+729,Petroleum and coal products manufacturing,22824,Texas,2016,324,450208,13398817,0.17034339673420423
+730,Petroleum and coal products manufacturing,22824,Texas,2016,3241,450208,13398817,0.17034339673420423
+731,Petroleum and coal products manufacturing,1330,Utah,2016,324,54867,1522330,0.08736607700038757
+732,Petroleum and coal products manufacturing,1330,Utah,2016,3241,54867,1522330,0.08736607700038757
+733,Petroleum and coal products manufacturing,1733,Alabama,2016,3241,128315,2181837,0.0794284815960129
+734,Petroleum and coal products manufacturing,1137,Arkansas,2016,3241,76421,1327435,0.08565391149095812
+735,Petroleum and coal products manufacturing,814,Colorado,2016,3241,53580,2899662,0.028072237384909
+736,Petroleum and coal products manufacturing,748,Florida,2016,3241,153757,9922037,0.007538774548008639
+737,Petroleum and coal products manufacturing,1078,Georgia,2016,3241,208481,4993511,0.02158801692836964
+738,Petroleum and coal products manufacturing,3953,Indiana,2016,3241,231759,3295293,0.11995898392039797
+739,Petroleum and coal products manufacturing,10116,Louisiana,2016,3241,107111,2089577,0.4841171203549809
+740,Petroleum and coal products manufacturing,877,Massachusetts,2016,3241,107215,3587944,0.024442967894705157
+741,Petroleum and coal products manufacturing,1913,Michigan,2016,3241,260972,4831428,0.039594918934940146
+742,Petroleum and coal products manufacturing,1963,Mississippi,2016,3241,60455,1290731,0.152084361497477
+743,Petroleum and coal products manufacturing,1146,Montana,2016,3241,12495,519979,0.22039351589198797
+744,Petroleum and coal products manufacturing,1974,New York,2016,3241,230548,9539259,0.02069343121934314
+745,Petroleum and coal products manufacturing,570,Oregon,2016,3241,92974,2053854,0.02775270296720215
+746,Petroleum and coal products manufacturing,2687,Washington,2016,3241,97028,3661925,0.07337670760597227
+747,Petroleum and coal products manufacturing,884,North Carolina,2016,3241,262235,4901041,0.018036984387602553
+748,Petroleum and coal products manufacturing,884,North Carolina,2016,324,262235,4901041,0.018036984387602553
+749,Petroleum and coal products manufacturing,0,North Dakota,2016,324,8658,427558,0.0
+750,Petroleum and coal products manufacturing,1876,Kansas,2016,324,70825,1482709,0.1265251644118974
+751,Petroleum and coal products manufacturing,4856,Illinois,2016,3241,335056,6512493,0.07456437957015846
+752,Petroleum and coal products manufacturing,4856,Illinois,2016,324,335056,6512493,0.07456437957015846
+753,Petroleum and coal products manufacturing,526,Alaska,2016,3241,3239,353728,0.14870182739279897
+754,Petroleum and coal products manufacturing,526,Alaska,2016,324,3239,353728,0.14870182739279897
+755,Petroleum and coal products manufacturing,519,West Virginia,2016,3241,45957,775724,0.06690523949239678
+756,Petroleum and coal products manufacturing,519,West Virginia,2016,324,45957,775724,0.06690523949239678
+757,Petroleum and coal products manufacturing,1110,Wyoming,2016,3241,8951,302608,0.3668111880716967
+758,Petroleum and coal products manufacturing,700,Virginia,2016,324,147694,4262681,0.01642159007441561
+759,Petroleum and coal products manufacturing,0,Vermont,2016,3241,12215,343843,0.0
+760,Petroleum and coal products manufacturing,0,Vermont,2016,324,12215,343843,0.0
+761,Petroleum and coal products manufacturing,0,South Dakota,2016,3241,17941,451642,0.0
+762,Petroleum and coal products manufacturing,0,South Dakota,2016,324,17941,451642,0.0
+763,Petroleum and coal products manufacturing,534,Wisconsin,2016,3241,250012,3108632,0.017177974105651618
+764,Petroleum and coal products manufacturing,37,Rhode Island,2016,3241,12601,552748,0.00669382792882109
+765,Petroleum and coal products manufacturing,5577,Ohio,2016,3241,364242,5673884,0.09829245715985734
+766,Petroleum and coal products manufacturing,1974,New York,2016,324,230548,9539259,0.02069343121934314
+767,Petroleum and coal products manufacturing,1876,Kansas,2016,3241,70825,1482709,0.1265251644118974
+768,Petroleum and coal products manufacturing,1733,Alabama,2016,324,128315,2181837,0.0794284815960129
+769,Petroleum and coal products manufacturing,175,Nevada,2016,324,25744,1427057,0.012263000006306686
+770,Petroleum and coal products manufacturing,1122,Kentucky,2016,3241,138085,2012099,0.0557626637655503
+771,Petroleum and coal products manufacturing,830,Maryland,2016,324,62157,3197318,0.025959257102358916
+772,Petroleum and coal products manufacturing,830,Maryland,2016,3241,62157,3197318,0.025959257102358916
+773,Petroleum and coal products manufacturing,877,Massachusetts,2016,324,107215,3587944,0.024442967894705157
+774,Petroleum and coal products manufacturing,2335,Minnesota,2016,324,166155,2977719,0.07841572693729663
+775,Petroleum and coal products manufacturing,2335,Minnesota,2016,3241,166155,2977719,0.07841572693729663
+776,Petroleum and coal products manufacturing,2794,New Jersey,2016,3241,161424,4515938,0.06186975994798866
+777,Petroleum and coal products manufacturing,1122,Kentucky,2016,324,138085,2012099,0.0557626637655503
+778,Petroleum and coal products manufacturing,2794,New Jersey,2016,324,161424,4515938,0.06186975994798866
+779,Petroleum and coal products manufacturing,175,Nevada,2016,3241,25744,1427057,0.012263000006306686
+780,Pharmaceutical and medicine manufacturing,6497,Utah,2016,3254,54867,1522330,0.42678000170790825
+781,Pharmaceutical and medicine manufacturing,2195,Iowa,2016,3254,91133,1690916,0.12981129754523585
+782,Pharmaceutical and medicine manufacturing,3364,South Carolina,2016,3254,143099,2289830,0.1469104693361516
+783,Pharmaceutical and medicine manufacturing,3271,Kansas,2016,3254,70825,1482709,0.22060970831093624
+784,Pharmaceutical and medicine manufacturing,18967,New York,2016,3254,230548,9539259,0.19883095741503612
+785,Pharmaceutical and medicine manufacturing,0,West Virginia,2016,3254,45957,775724,0.0
+786,Pharmaceutical and medicine manufacturing,728,Oregon,2016,3254,92974,2053854,0.03544555747390028
+787,Pharmaceutical and medicine manufacturing,2704,Minnesota,2016,3254,166155,2977719,0.09080776258605999
+788,Pharmaceutical and medicine manufacturing,2348,Nebraska,2016,3254,39252,1008515,0.23281755848946223
+789,Pharmaceutical and medicine manufacturing,337,Oklahoma,2016,3254,62254,1835037,0.018364752318345626
+790,Pharmaceutical and medicine manufacturing,3507,Virginia,2016,3254,147694,4262681,0.0822721662728222
+791,Pharmaceutical and medicine manufacturing,7590,Texas,2016,3254,450208,13398817,0.0566467920264901
+792,Pharmaceutical and medicine manufacturing,778,Maine,2016,3254,31611,690121,0.11273385391837085
+793,Pharmaceutical and medicine manufacturing,3540,Georgia,2016,3254,208481,4993511,0.07089200364232702
+794,Pharmaceutical and medicine manufacturing,1565,Washington,2016,3254,97028,3661925,0.04273708500310629
+795,Pharmaceutical and medicine manufacturing,0,Hawaii,2016,3254,4383,699577,0.0
+796,Pharmaceutical and medicine manufacturing,0,Vermont,2016,3254,12215,343843,0.0
+797,Pharmaceutical and medicine manufacturing,1203,Mississippi,2016,3254,60455,1290731,0.0932029989207666
+798,Pharmaceutical and medicine manufacturing,509,Idaho,2016,3254,28172,805716,0.06317362445328131
+799,Pharmaceutical and medicine manufacturing,8609,Massachusetts,2016,3254,107215,3587944,0.2399424294247625
+800,Pharmaceutical and medicine manufacturing,187,Wyoming,2016,3254,8951,302608,0.0617961190715381
+801,Pharmaceutical and medicine manufacturing,505,Louisiana,2016,3254,107111,2089577,0.02416757075714367
+802,Pharmaceutical and medicine manufacturing,1095,Rhode Island,2016,3254,12601,552748,0.19810112383943498
+803,Pharmaceutical and medicine manufacturing,565,New Mexico,2016,3254,10553,935358,0.06040467927788077
+804,Pharmaceutical and medicine manufacturing,1208,Connecticut,2016,3254,49562,1887269,0.06400783354148243
+805,Pharmaceutical and medicine manufacturing,1105,New Hampshire,2016,3254,24944,746996,0.14792582557336317
+806,Pharmaceutical and medicine manufacturing,0,Montana,2016,3254,12495,519979,0.0
+807,Pharmaceutical and medicine manufacturing,183,Arkansas,2016,3254,76421,1327435,0.013785985754481388
+808,Pharmaceutical and medicine manufacturing,8327,Michigan,2016,3254,260972,4831428,0.1723507004554347
+809,Pharmaceutical and medicine manufacturing,11646,Pennsylvania,2016,3254,317404,6420121,0.18139845027842935
+810,Pharmaceutical and medicine manufacturing,1132,Alabama,2016,3254,128315,2181837,0.05188288584344294
+811,Pharmaceutical and medicine manufacturing,8874,Indiana,2016,3254,231759,3295293,0.26929320093842946
+812,Pharmaceutical and medicine manufacturing,0,Alaska,2016,3254,3239,353728,0.0
+813,Pharmaceutical and medicine manufacturing,5367,Florida,2016,3254,153757,9922037,0.05409171523952189
+814,Pharmaceutical and medicine manufacturing,0,District of Columbia,2016,3254,840,397720,0.0
+815,Pharmaceutical and medicine manufacturing,1322,Delaware,2016,3254,15705,470075,0.2812317183428176
+816,Pharmaceutical and medicine manufacturing,52002,California,2016,3254,517711,19192788,0.2709455239124196
+817,Pharmaceutical and medicine manufacturing,2194,Tennessee,2016,3254,188053,3156375,0.06951011841115204
+818,Pharmaceutical and medicine manufacturing,0,South Dakota,2016,3254,17941,451642,0.0
+819,Pharmaceutical and medicine manufacturing,3199,Ohio,2016,3254,364242,5673884,0.05638113151414445
+820,Pharmaceutical and medicine manufacturing,17451,North Carolina,2016,3254,262235,4901041,0.3560672110272083
+821,Pharmaceutical and medicine manufacturing,15331,New Jersey,2016,3254,161424,4515938,0.3394865031362255
+822,Pharmaceutical and medicine manufacturing,993,Nevada,2016,3254,25744,1427057,0.06958376575007166
+823,Pharmaceutical and medicine manufacturing,2702,Missouri,2016,3254,124148,3093755,0.08733723258629077
+824,Pharmaceutical and medicine manufacturing,652,Kentucky,2016,3254,138085,2012099,0.032403972170355434
+825,Pharmaceutical and medicine manufacturing,35135,Illinois,2016,3254,335056,6512493,0.53950153957939
+826,Pharmaceutical and medicine manufacturing,2595,Colorado,2016,3254,53580,2899662,0.08949318920619023
+827,Pharmaceutical and medicine manufacturing,2318,Wisconsin,2016,3254,250012,3108632,0.07456656175449522
+828,Pharmaceutical and medicine manufacturing,3314,Arizona,2016,3254,56602,3252711,0.10188424363553972
+829,Pharmaceutical and medicine manufacturing,4006,Maryland,2016,3254,62157,3197318,0.1252925107856022
+830,Plastics and rubber products manufacturing,70359,Ohio,2016,326,364242,5673884,1.2400500256966833
+831,Plastics and rubber products manufacturing,829,New Mexico,2016,326,10553,935358,0.08862916658648345
+832,Plastics and rubber products manufacturing,18045,Virginia,2016,326,147694,4262681,0.4233251327040424
+833,Plastics and rubber products manufacturing,17534,Alabama,2016,326,128315,2181837,0.8036347353170745
+834,Plastics and rubber products manufacturing,22392,New York,2016,326,230548,9539259,0.23473521370999573
+835,Plastics and rubber products manufacturing,169,Alaska,2016,326,3239,353728,0.047776822869549485
+836,Plastics and rubber products manufacturing,6786,Arizona,2016,326,56602,3252711,0.20862597384151252
+837,Plastics and rubber products manufacturing,5398,Nebraska,2016,326,39252,1008515,0.5352424108714298
+838,Plastics and rubber products manufacturing,10080,Arkansas,2016,326,76421,1327435,0.7593592153288109
+839,Plastics and rubber products manufacturing,49732,California,2016,326,517711,19192788,0.2591181645939089
+840,Plastics and rubber products manufacturing,4440,Colorado,2016,326,53580,2899662,0.15312129482677636
+841,Plastics and rubber products manufacturing,7164,Mississippi,2016,326,60455,1290731,0.5550343177625703
+842,Plastics and rubber products manufacturing,5843,Connecticut,2016,326,49562,1887269,0.3096008041249022
+843,Plastics and rubber products manufacturing,38981,Indiana,2016,326,231759,3295293,1.1829297121682352
+844,Plastics and rubber products manufacturing,50511,Michigan,2016,326,260972,4831428,1.04546730283469
+845,Plastics and rubber products manufacturing,11910,Iowa,2016,326,91133,1690916,0.7043519607124186
+846,Plastics and rubber products manufacturing,1631,Idaho,2016,326,28172,805716,0.2024286473149348
+847,Plastics and rubber products manufacturing,19684,Kentucky,2016,326,138085,2012099,0.9782818837442889
+848,Plastics and rubber products manufacturing,2449,Maine,2016,326,31611,690121,0.35486530622890766
+849,Plastics and rubber products manufacturing,1760,Delaware,2016,326,15705,470075,0.3744083390948253
+850,Plastics and rubber products manufacturing,14941,Minnesota,2016,326,166155,2977719,0.5017599041413914
+851,Plastics and rubber products manufacturing,76,Wyoming,2016,326,8951,302608,0.02511500026436842
+852,Plastics and rubber products manufacturing,321,Montana,2016,326,12495,519979,0.06173326230482385
+853,Plastics and rubber products manufacturing,4696,New Hampshire,2016,326,24944,746996,0.6286512913054421
+854,Plastics and rubber products manufacturing,2383,Rhode Island,2016,326,12601,552748,0.4311187014697475
+855,Plastics and rubber products manufacturing,1860,North Dakota,2016,326,8658,427558,0.43502869786087506
+856,Plastics and rubber products manufacturing,12229,Florida,2016,326,153757,9922037,0.12325090099946212
+857,Plastics and rubber products manufacturing,26854,Georgia,2016,326,208481,4993511,0.5377779281952118
+858,Plastics and rubber products manufacturing,11294,Kansas,2016,326,70825,1482709,0.7617138629360177
+859,Plastics and rubber products manufacturing,11030,Oklahoma,2016,326,62254,1835037,0.6010777984313123
+860,Plastics and rubber products manufacturing,180,Hawaii,2016,326,4383,699577,0.025729833885333567
+861,Plastics and rubber products manufacturing,29332,Wisconsin,2016,326,250012,3108632,0.9435661731591259
+862,Plastics and rubber products manufacturing,3483,West Virginia,2016,326,45957,775724,0.4489999020270096
+863,Plastics and rubber products manufacturing,9509,Washington,2016,326,97028,3661925,0.25967216696136597
+864,Plastics and rubber products manufacturing,1076,Vermont,2016,326,12215,343843,0.3129335190770206
+865,Plastics and rubber products manufacturing,40351,Texas,2016,326,450208,13398817,0.30115345257719395
+866,Plastics and rubber products manufacturing,24943,Tennessee,2016,326,188053,3156375,0.7902419706150252
+867,Plastics and rubber products manufacturing,1716,South Dakota,2016,326,17941,451642,0.37994694913227733
+868,Plastics and rubber products manufacturing,21507,South Carolina,2016,326,143099,2289830,0.9392400309193258
+869,Plastics and rubber products manufacturing,35051,Pennsylvania,2016,326,317404,6420121,0.5459554422728169
+870,Plastics and rubber products manufacturing,34166,North Carolina,2016,326,262235,4901041,0.697117204283743
+871,Plastics and rubber products manufacturing,16479,New Jersey,2016,326,161424,4515938,0.3649075784477112
+872,Plastics and rubber products manufacturing,3099,Nevada,2016,326,25744,1427057,0.2171602115402538
+873,Plastics and rubber products manufacturing,5693,Oregon,2016,326,92974,2053854,0.2771862070040032
+874,Plastics and rubber products manufacturing,14192,Massachusetts,2016,326,107215,3587944,0.3955468647225263
+875,Plastics and rubber products manufacturing,5903,Maryland,2016,326,62157,3197318,0.18462348756051167
+876,Plastics and rubber products manufacturing,3792,Louisiana,2016,326,107111,2089577,0.18147213526948278
+877,Plastics and rubber products manufacturing,5854,Utah,2016,326,54867,1522330,0.38454211636110436
+878,Plastics and rubber products manufacturing,13780,Missouri,2016,326,124148,3093755,0.4454134215540662
+879,Plastics and rubber products manufacturing,39738,Illinois,2016,326,335056,6512493,0.6101810781216963
+880,Plastics product manufacturing,2968,West Virginia,2016,3261,45957,775724,0.3826103098524733
+881,Plastics product manufacturing,17350,Kentucky,2016,3261,138085,2012099,0.8622836152694275
+882,Plastics product manufacturing,27084,Wisconsin,2016,3261,250012,3108632,0.8712514057630495
+883,Plastics product manufacturing,8581,Iowa,2016,3261,91133,1690916,0.507476421064086
+884,Plastics product manufacturing,11166,Missouri,2016,3261,124148,3093755,0.36092062881514536
+885,Plastics product manufacturing,0,Wyoming,2016,3261,8951,302608,0.0
+886,Plastics product manufacturing,0,Montana,2016,3261,12495,519979,0.0
+887,Plastics product manufacturing,5973,Arkansas,2016,3261,76421,1327435,0.4499655350356138
+888,Plastics product manufacturing,0,New Mexico,2016,3261,10553,935358,0.0
+889,Plastics product manufacturing,14671,New Jersey,2016,3261,161424,4515938,0.32487159921150377
+890,Plastics product manufacturing,4323,Colorado,2016,3261,53580,2899662,0.1490863417874221
+891,Plastics product manufacturing,3103,New Hampshire,2016,3261,24944,746996,0.41539713733406874
+892,Plastics product manufacturing,32317,Indiana,2016,3261,231759,3295293,0.9807018677853533
+893,Plastics product manufacturing,2862,Nevada,2016,3261,25744,1427057,0.20055260581742707
+894,Plastics product manufacturing,3744,Nebraska,2016,3261,39252,1008515,0.37123890076002836
+895,Plastics product manufacturing,24901,North Carolina,2016,3261,262235,4901041,0.5080757332982933
+896,Plastics product manufacturing,1566,Idaho,2016,3261,28172,805716,0.194361288593003
+897,Plastics product manufacturing,180,Hawaii,2016,3261,4383,699577,0.025729833885333567
+898,Plastics product manufacturing,10901,Florida,2016,3261,153757,9922037,0.10986655260406708
+899,Plastics product manufacturing,12546,Alabama,2016,3261,128315,2181837,0.5750200404521512
+900,Plastics product manufacturing,33254,Illinois,2016,3261,335056,6512493,0.5106185910679674
+901,Plastics product manufacturing,8213,Kansas,2016,3261,70825,1482709,0.5539185369482481
+902,Plastics product manufacturing,30234,Pennsylvania,2016,3261,317404,6420121,0.4709257037367364
+903,Plastics product manufacturing,2480,Louisiana,2016,3261,107111,2089577,0.11868430787666595
+904,Plastics product manufacturing,13937,South Carolina,2016,3261,143099,2289830,0.608647803548735
+905,Plastics product manufacturing,1689,South Dakota,2016,3261,17941,451642,0.37396876286970654
+906,Plastics product manufacturing,2328,Maine,2016,3261,31611,690121,0.337332148999958
+907,Plastics product manufacturing,5228,Maryland,2016,3261,62157,3197318,0.16351204353148482
+908,Plastics product manufacturing,6522,Arizona,2016,3261,56602,3252711,0.20050966716686483
+909,Plastics product manufacturing,38000,Texas,2016,3261,450208,13398817,0.28360712740535227
+910,Plastics product manufacturing,45368,California,2016,3261,517711,19192788,0.23638045707585578
+911,Plastics product manufacturing,0,Vermont,2016,3261,12215,343843,0.0
+912,Plastics product manufacturing,5453,Connecticut,2016,3261,49562,1887269,0.28893602342856267
+913,Plastics product manufacturing,1548,Delaware,2016,3261,15705,470075,0.3293091527947668
+914,Plastics product manufacturing,13541,Virginia,2016,3261,147694,4262681,0.31766393028237394
+915,Plastics product manufacturing,16847,Tennessee,2016,3261,188053,3156375,0.5337451982099718
+916,Plastics product manufacturing,147,Alaska,2016,3261,3239,353728,0.04155735480369097
+917,Plastics product manufacturing,4478,Oregon,2016,3261,92974,2053854,0.218029129626546
+918,Plastics product manufacturing,5493,Utah,2016,3261,54867,1522330,0.3608284668895706
+919,Plastics product manufacturing,55914,Ohio,2016,3261,364242,5673884,0.9854625156242179
+920,Plastics product manufacturing,0,Rhode Island,2016,3261,12601,552748,0.0
+921,Plastics product manufacturing,5886,Oklahoma,2016,3261,62254,1835037,0.32075647521003664
+922,Plastics product manufacturing,0,North Dakota,2016,3261,8658,427558,0.0
+923,Plastics product manufacturing,12707,Massachusetts,2016,3261,107215,3587944,0.3541582588802947
+924,Plastics product manufacturing,21383,Georgia,2016,3261,208481,4993511,0.4282157383852764
+925,Plastics product manufacturing,19727,New York,2016,3261,230548,9539259,0.20679803326442858
+926,Plastics product manufacturing,13642,Minnesota,2016,3261,166155,2977719,0.45813590872745213
+927,Plastics product manufacturing,45519,Michigan,2016,3261,260972,4831428,0.9421438133818821
+928,Plastics product manufacturing,4788,Mississippi,2016,3261,60455,1290731,0.37095258423327554
+929,Plastics product manufacturing,9082,Washington,2016,3261,97028,3661925,0.2480116332256941
+930,Printing and related support activities,11928,Michigan,2016,323,260972,4831428,0.24688353008675695
+931,Printing and related support activities,11928,Michigan,2016,3231,260972,4831428,0.24688353008675695
+932,Printing and related support activities,23197,Minnesota,2016,323,166155,2977719,0.7790191082503084
+933,Printing and related support activities,13082,Indiana,2016,323,231759,3295293,0.39699049523062135
+934,Printing and related support activities,4225,Oregon,2016,3231,92974,2053854,0.20571082462531418
+935,Printing and related support activities,8662,Massachusetts,2016,3231,107215,3587944,0.241419598522162
+936,Printing and related support activities,8662,Massachusetts,2016,323,107215,3587944,0.241419598522162
+937,Printing and related support activities,13082,Indiana,2016,3231,231759,3295293,0.39699049523062135
+938,Printing and related support activities,4225,Oregon,2016,323,92974,2053854,0.20571082462531418
+939,Printing and related support activities,23197,Minnesota,2016,3231,166155,2977719,0.7790191082503084
+940,Printing and related support activities,26621,Pennsylvania,2016,323,317404,6420121,0.4146495058270709
+941,Printing and related support activities,17456,New York,2016,3231,230548,9539259,0.1829911526670992
+942,Printing and related support activities,27007,Illinois,2016,3231,335056,6512493,0.41469526339606044
+943,Printing and related support activities,3279,Alabama,2016,3231,128315,2181837,0.1502862037814924
+944,Printing and related support activities,2504,Arkansas,2016,323,76421,1327435,0.1886344717443792
+945,Printing and related support activities,3851,Utah,2016,323,54867,1522330,0.25296749062292667
+946,Printing and related support activities,2504,Arkansas,2016,3231,76421,1327435,0.1886344717443792
+947,Printing and related support activities,38959,California,2016,323,517711,19192788,0.20298770559024565
+948,Printing and related support activities,4826,Colorado,2016,323,53580,2899662,0.16643319117883396
+949,Printing and related support activities,4826,Colorado,2016,3231,53580,2899662,0.16643319117883396
+950,Printing and related support activities,315,District of Columbia,2016,323,840,397720,0.0792014482550538
+951,Printing and related support activities,315,District of Columbia,2016,3231,840,397720,0.0792014482550538
+952,Printing and related support activities,863,Montana,2016,323,12495,519979,0.16596824102511834
+953,Printing and related support activities,10118,Tennessee,2016,323,188053,3156375,0.32055760167914144
+954,Printing and related support activities,13964,Florida,2016,3231,153757,9922037,0.14073722966362653
+955,Printing and related support activities,4731,South Carolina,2016,323,143099,2289830,0.20660922426555683
+956,Printing and related support activities,11247,Georgia,2016,323,208481,4993511,0.2252323064873593
+957,Printing and related support activities,618,Hawaii,2016,323,4383,699577,0.08833909633964523
+958,Printing and related support activities,618,Hawaii,2016,3231,4383,699577,0.08833909633964523
+959,Printing and related support activities,26621,Pennsylvania,2016,3231,317404,6420121,0.4146495058270709
+960,Printing and related support activities,1234,Idaho,2016,323,28172,805716,0.1531557025055975
+961,Printing and related support activities,1234,Idaho,2016,3231,28172,805716,0.1531557025055975
+962,Printing and related support activities,27007,Illinois,2016,323,335056,6512493,0.41469526339606044
+963,Printing and related support activities,13964,Florida,2016,323,153757,9922037,0.14073722966362653
+964,Printing and related support activities,863,Montana,2016,3231,12495,519979,0.16596824102511834
+965,Printing and related support activities,14048,New Jersey,2016,3231,161424,4515938,0.3110760156583195
+966,Printing and related support activities,17456,New York,2016,323,230548,9539259,0.1829911526670992
+967,Printing and related support activities,5648,Connecticut,2016,323,49562,1887269,0.2992684137767324
+968,Printing and related support activities,5032,Washington,2016,3231,97028,3661925,0.13741406500679287
+969,Printing and related support activities,2527,Oklahoma,2016,3231,62254,1835037,0.13770839498059168
+970,Printing and related support activities,346,Delaware,2016,323,15705,470075,0.07360527575386906
+971,Printing and related support activities,2527,Oklahoma,2016,323,62254,1835037,0.13770839498059168
+972,Printing and related support activities,346,Delaware,2016,3231,15705,470075,0.07360527575386906
+973,Printing and related support activities,21154,Ohio,2016,323,364242,5673884,0.37283102721169487
+974,Printing and related support activities,10551,North Carolina,2016,3231,262235,4901041,0.21528079442714315
+975,Printing and related support activities,3851,Utah,2016,3231,54867,1522330,0.25296749062292667
+976,Printing and related support activities,6809,Kansas,2016,323,70825,1482709,0.45922699599179606
+977,Printing and related support activities,8207,Kentucky,2016,323,138085,2012099,0.4078825147271581
+978,Printing and related support activities,8207,Kentucky,2016,3231,138085,2012099,0.4078825147271581
+979,Printing and related support activities,2463,Louisiana,2016,323,107111,2089577,0.1178707460888017
+980,Printing and related support activities,10551,North Carolina,2016,323,262235,4901041,0.21528079442714315
+981,Printing and related support activities,8350,Maryland,2016,323,62157,3197318,0.26115638169240596
+982,Printing and related support activities,12587,Missouri,2016,323,124148,3093755,0.4068518677141532
+983,Printing and related support activities,2749,Nevada,2016,323,25744,1427057,0.19263421152764046
+984,Printing and related support activities,2749,Nevada,2016,3231,25744,1427057,0.19263421152764046
+985,Printing and related support activities,6809,Kansas,2016,3231,70825,1482709,0.45922699599179606
+986,Printing and related support activities,702,Mississippi,2016,323,60455,1290731,0.05438778490638251
+987,Printing and related support activities,24445,Texas,2016,3231,450208,13398817,0.1824414797216799
+988,Printing and related support activities,10118,Tennessee,2016,3231,188053,3156375,0.32055760167914144
+989,Printing and related support activities,442,New Mexico,2016,323,10553,935358,0.04725463405455451
+990,Printing and related support activities,442,New Mexico,2016,3231,10553,935358,0.04725463405455451
+991,Printing and related support activities,1251,Rhode Island,2016,323,12601,552748,0.22632374970149144
+992,Printing and related support activities,1251,Rhode Island,2016,3231,12601,552748,0.22632374970149144
+993,Printing and related support activities,24445,Texas,2016,323,450208,13398817,0.1824414797216799
+994,Printing and related support activities,5032,Washington,2016,323,97028,3661925,0.13741406500679287
+995,Printing and related support activities,25279,Wisconsin,2016,323,250012,3108632,0.8131872798066802
+996,Printing and related support activities,4186,Arizona,2016,3231,56602,3252711,0.12869265053058818
+997,Printing and related support activities,38959,California,2016,3231,517711,19192788,0.20298770559024565
+998,Printing and related support activities,5648,Connecticut,2016,3231,49562,1887269,0.2992684137767324
+999,Printing and related support activities,11247,Georgia,2016,3231,208481,4993511,0.2252323064873593
+1000,Printing and related support activities,6656,Iowa,2016,3231,91133,1690916,0.3936328002100637
+1001,Printing and related support activities,2463,Louisiana,2016,3231,107111,2089577,0.1178707460888017
+1002,Printing and related support activities,1366,Maine,2016,3231,31611,690121,0.19793630392351486
+1003,Printing and related support activities,8350,Maryland,2016,3231,62157,3197318,0.26115638169240596
+1004,Printing and related support activities,702,Mississippi,2016,3231,60455,1290731,0.05438778490638251
+1005,Printing and related support activities,3502,Nebraska,2016,3231,39252,1008515,0.34724322394808205
+1006,Printing and related support activities,2031,New Hampshire,2016,3231,24944,746996,0.27188900609909555
+1007,Printing and related support activities,21154,Ohio,2016,3231,364242,5673884,0.37283102721169487
+1008,Printing and related support activities,14048,New Jersey,2016,323,161424,4515938,0.3110760156583195
+1009,Printing and related support activities,12587,Missouri,2016,3231,124148,3093755,0.4068518677141532
+1010,Printing and related support activities,178,Wyoming,2016,3231,8951,302608,0.05882197430338921
+1011,Printing and related support activities,3279,Alabama,2016,323,128315,2181837,0.1502862037814924
+1012,Printing and related support activities,284,Alaska,2016,323,3239,353728,0.08028767866835534
+1013,Printing and related support activities,684,North Dakota,2016,323,8658,427558,0.1599782953423863
+1014,Printing and related support activities,1718,South Dakota,2016,323,17941,451642,0.38038977774431965
+1015,Printing and related support activities,178,Wyoming,2016,323,8951,302608,0.05882197430338921
+1016,Printing and related support activities,284,Alaska,2016,3231,3239,353728,0.08028767866835534
+1017,Printing and related support activities,684,North Dakota,2016,3231,8658,427558,0.1599782953423863
+1018,Printing and related support activities,4731,South Carolina,2016,3231,143099,2289830,0.20660922426555683
+1019,Printing and related support activities,893,Vermont,2016,323,12215,343843,0.25971155440128196
+1020,Printing and related support activities,6656,Iowa,2016,323,91133,1690916,0.3936328002100637
+1021,Printing and related support activities,3502,Nebraska,2016,323,39252,1008515,0.34724322394808205
+1022,Printing and related support activities,2031,New Hampshire,2016,323,24944,746996,0.27188900609909555
+1023,Printing and related support activities,25279,Wisconsin,2016,3231,250012,3108632,0.8131872798066802
+1024,Printing and related support activities,2458,West Virginia,2016,323,45957,775724,0.3168652768252626
+1025,Printing and related support activities,4186,Arizona,2016,323,56602,3252711,0.12869265053058818
+1026,Printing and related support activities,1366,Maine,2016,323,31611,690121,0.19793630392351486
+1027,Printing and related support activities,11229,Virginia,2016,323,147694,4262681,0.2634257642080184
+1028,Printing and related support activities,2458,West Virginia,2016,3231,45957,775724,0.3168652768252626
+1029,Printing and related support activities,11229,Virginia,2016,3231,147694,4262681,0.2634257642080184
+1030,Printing and related support activities,1718,South Dakota,2016,3231,17941,451642,0.38038977774431965
+1031,Printing and related support activities,893,Vermont,2016,3231,12215,343843,0.25971155440128196
+1032,"Pulp, paper, and paperboard mills",0,Maryland,2016,3221,62157,3197318,0.0
+1033,"Pulp, paper, and paperboard mills",2126,Oregon,2016,3221,92974,2053854,0.10351271317240662
+1034,"Pulp, paper, and paperboard mills",0,Kansas,2016,3221,70825,1482709,0.0
+1035,"Pulp, paper, and paperboard mills",4572,Louisiana,2016,3221,107111,2089577,0.21880026435972447
+1036,"Pulp, paper, and paperboard mills",0,Missouri,2016,3221,124148,3093755,0.0
+1037,"Pulp, paper, and paperboard mills",0,Nevada,2016,3221,25744,1427057,0.0
+1038,"Pulp, paper, and paperboard mills",0,New Mexico,2016,3221,10553,935358,0.0
+1039,"Pulp, paper, and paperboard mills",2150,Ohio,2016,3221,364242,5673884,0.037892914271775734
+1040,"Pulp, paper, and paperboard mills",2181,Oklahoma,2016,3221,62254,1835037,0.11885318933623681
+1041,"Pulp, paper, and paperboard mills",3878,New York,2016,3221,230548,9539259,0.04065305282097907
+1042,"Pulp, paper, and paperboard mills",0,New Jersey,2016,3221,161424,4515938,0.0
+1043,"Pulp, paper, and paperboard mills",410,New Hampshire,2016,3221,24944,746996,0.054886505416360996
+1044,"Pulp, paper, and paperboard mills",1116,Connecticut,2016,3221,49562,1887269,0.05913306476183311
+1045,"Pulp, paper, and paperboard mills",2474,Minnesota,2016,3221,166155,2977719,0.08308372952585519
+1046,"Pulp, paper, and paperboard mills",1311,Massachusetts,2016,3221,107215,3587944,0.036539031824354
+1047,"Pulp, paper, and paperboard mills",2198,Kentucky,2016,3221,138085,2012099,0.1092391577154007
+1048,"Pulp, paper, and paperboard mills",1677,Mississippi,2016,3221,60455,1290731,0.12992637505413598
+1049,"Pulp, paper, and paperboard mills",0,Iowa,2016,3221,91133,1690916,0.0
+1050,"Pulp, paper, and paperboard mills",650,Indiana,2016,3221,231759,3295293,0.019725104869278694
+1051,"Pulp, paper, and paperboard mills",632,Illinois,2016,3221,335056,6512493,0.009704425018191958
+1052,"Pulp, paper, and paperboard mills",3918,Arkansas,2016,3221,76421,1327435,0.2951556950057818
+1053,"Pulp, paper, and paperboard mills",2911,Virginia,2016,3221,147694,4262681,0.06829035529517691
+1054,"Pulp, paper, and paperboard mills",0,Vermont,2016,3221,12215,343843,0.0
+1055,"Pulp, paper, and paperboard mills",3226,North Carolina,2016,3221,262235,4901041,0.06582275071765366
+1056,"Pulp, paper, and paperboard mills",1186,California,2016,3221,517711,19192788,0.0061794044721381804
+1057,"Pulp, paper, and paperboard mills",5211,Pennsylvania,2016,3221,317404,6420121,0.08116669452180107
+1058,"Pulp, paper, and paperboard mills",0,Rhode Island,2016,3221,12601,552748,0.0
+1059,"Pulp, paper, and paperboard mills",0,Idaho,2016,3221,28172,805716,0.0
+1060,"Pulp, paper, and paperboard mills",10432,Wisconsin,2016,3221,250012,3108632,0.33558169638606306
+1061,"Pulp, paper, and paperboard mills",8088,Georgia,2016,3221,208481,4993511,0.1619702049319607
+1062,"Pulp, paper, and paperboard mills",6130,South Carolina,2016,3221,143099,2289830,0.267705462850954
+1063,"Pulp, paper, and paperboard mills",3554,Florida,2016,3221,153757,9922037,0.03581925767863998
+1064,"Pulp, paper, and paperboard mills",3559,Washington,2016,3221,97028,3661925,0.09718931982495545
+1065,"Pulp, paper, and paperboard mills",0,Arizona,2016,3221,56602,3252711,0.0
+1066,"Pulp, paper, and paperboard mills",3413,Michigan,2016,3221,260972,4831428,0.07064164052532709
+1067,"Pulp, paper, and paperboard mills",7206,Alabama,2016,3221,128315,2181837,0.33027215140269417
+1068,"Pulp, paper, and paperboard mills",0,West Virginia,2016,3221,45957,775724,0.0
+1069,"Pulp, paper, and paperboard mills",0,Utah,2016,3221,54867,1522330,0.0
+1070,"Pulp, paper, and paperboard mills",2300,Texas,2016,3221,450208,13398817,0.017165694553481846
+1071,"Pulp, paper, and paperboard mills",2871,Tennessee,2016,3221,188053,3156375,0.09095877390994415
+1072,"Pulp, paper, and paperboard mills",3953,Maine,2016,3221,31611,690121,0.5727981035209767
+1073,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",5718,Ohio,2016,3252,364242,5673884,0.10077752735163427
+1074,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",7574,South Carolina,2016,3252,143099,2289830,0.3307669128275898
+1075,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",2857,Pennsylvania,2016,3252,317404,6420121,0.04450071891168406
+1076,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",2119,Tennessee,2016,3252,188053,3156375,0.06713397489208348
+1077,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",222,Arizona,2016,3252,56602,3252711,0.006825076067317385
+1078,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",2103,Wisconsin,2016,3252,250012,3108632,0.06765033622506621
+1079,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",104,Colorado,2016,3252,53580,2899662,0.0035866249238704372
+1080,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",760,Mississippi,2016,3252,60455,1290731,0.0588813625767104
+1081,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",5183,Louisiana,2016,3252,107111,2089577,0.2480406321470805
+1082,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",1921,Florida,2016,3252,153757,9922037,0.019360943725567643
+1083,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",709,Connecticut,2016,3252,49562,1887269,0.03756751157360185
+1084,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",3572,California,2016,3252,517711,19192788,0.018611157482696105
+1085,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",155,Arkansas,2016,3252,76421,1327435,0.011676654600790247
+1086,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",4527,Alabama,2016,3252,128315,2181837,0.20748571043574748
+1087,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",3722,North Carolina,2016,3252,262235,4901041,0.07594304965006414
+1088,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",1888,Massachusetts,2016,3252,107215,3587944,0.05262066520547701
+1089,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",3720,Illinois,2016,3252,335056,6512493,0.05712098270201595
+1090,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",1062,New York,2016,3252,230548,9539259,0.011132940200072144
+1091,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",3006,Indiana,2016,3252,231759,3295293,0.09122102344161809
+1092,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",512,Iowa,2016,3252,91133,1690916,0.030279446170004897
+1093,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",263,Kansas,2016,3252,70825,1482709,0.017737802899962164
+1094,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",4244,Kentucky,2016,3252,138085,2012099,0.2109240151702277
+1095,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",236,Maine,2016,3252,31611,690121,0.03419690170274488
+1096,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",116,Maryland,2016,3252,62157,3197318,0.003628040751654981
+1097,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",4208,Michigan,2016,3252,260972,4831428,0.08709640296823216
+1098,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",1422,Minnesota,2016,3252,166155,2977719,0.04775467396352712
+1099,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",867,Missouri,2016,3252,124148,3093755,0.028024197132610694
+1100,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",0,Montana,2016,3252,12495,519979,0.0
+1101,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",0,Nebraska,2016,3252,39252,1008515,0.0
+1102,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",86,Nevada,2016,3252,25744,1427057,0.006026388574527857
+1103,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",232,New Hampshire,2016,3252,24944,746996,0.031057729894135983
+1104,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",1158,New Jersey,2016,3252,161424,4515938,0.025642513249739034
+1105,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",591,Delaware,2016,3252,15705,470075,0.12572461841195554
+1106,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",141,Washington,2016,3252,97028,3661925,0.003850433856509896
+1107,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",278,Oregon,2016,3252,92974,2053854,0.0135355288155828
+1108,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",334,Rhode Island,2016,3252,12601,552748,0.06042536562773633
+1109,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",15496,Texas,2016,3252,450208,13398817,0.11565200121771944
+1110,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",3379,Georgia,2016,3252,208481,4993511,0.0676678192958822
+1111,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",218,Utah,2016,3252,54867,1522330,0.014320153974499615
+1112,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",0,Vermont,2016,3252,12215,343843,0.0
+1113,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",4048,Virginia,2016,3252,147694,4262681,0.09496370945890627
+1114,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",397,Oklahoma,2016,3252,62254,1835037,0.02163444115840716
+1115,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",1461,West Virginia,2016,3252,45957,775724,0.1883401828485389
+1116,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",0,Hawaii,2016,3252,4383,699577,0.0
+1117,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",148,Idaho,2016,3252,28172,805716,0.01836875524378317
+1118,Rubber product manufacturing,7570,South Carolina,2016,3262,143099,2289830,0.33059222737059085
+1119,Rubber product manufacturing,4504,Virginia,2016,3262,147694,4262681,0.10566120242166843
+1120,Rubber product manufacturing,4817,Pennsylvania,2016,3262,317404,6420121,0.07502973853608055
+1121,Rubber product manufacturing,14445,Ohio,2016,3262,364242,5673884,0.25458751007246533
+1122,Rubber product manufacturing,9265,North Carolina,2016,3262,262235,4901041,0.18904147098544982
+1123,Rubber product manufacturing,1593,New Hampshire,2016,3262,24944,746996,0.21325415397137332
+1124,Rubber product manufacturing,2352,Texas,2016,3262,450208,13398817,0.0175537885172997
+1125,Rubber product manufacturing,1299,Minnesota,2016,3262,166155,2977719,0.043623995413939326
+1126,Rubber product manufacturing,121,Maine,2016,3262,31611,690121,0.017533157228949704
+1127,Rubber product manufacturing,237,Nevada,2016,3262,25744,1427057,0.016607605722826768
+1128,Rubber product manufacturing,1654,Nebraska,2016,3262,39252,1008515,0.16400351011140143
+1129,Rubber product manufacturing,0,Montana,2016,3262,12495,519979,0.0
+1130,Rubber product manufacturing,1485,Massachusetts,2016,3262,107215,3587944,0.04138860584223165
+1131,Rubber product manufacturing,675,Maryland,2016,3262,62157,3197318,0.02111144402902683
+1132,Rubber product manufacturing,1312,Louisiana,2016,3262,107111,2089577,0.06278782739281683
+1133,Rubber product manufacturing,2334,Kentucky,2016,3262,138085,2012099,0.11599826847486132
+1134,Rubber product manufacturing,6665,Indiana,2016,3262,231759,3295293,0.20225819069806542
+1135,Rubber product manufacturing,65,Idaho,2016,3262,28172,805716,0.008067358721931797
+1136,Rubber product manufacturing,5471,Georgia,2016,3262,208481,4993511,0.10956218980993533
+1137,Rubber product manufacturing,1328,Florida,2016,3262,153757,9922037,0.013384348395395018
+1138,Rubber product manufacturing,212,Delaware,2016,3262,15705,470075,0.045099186300058505
+1139,Rubber product manufacturing,390,Connecticut,2016,3262,49562,1887269,0.020664780696339525
+1140,Rubber product manufacturing,4363,California,2016,3262,517711,19192788,0.022732497227604453
+1141,Rubber product manufacturing,22,Alaska,2016,3262,3239,353728,0.006219468065858513
+1142,Rubber product manufacturing,4987,Alabama,2016,3262,128315,2181837,0.2285688619268992
+1143,Rubber product manufacturing,2613,Missouri,2016,3262,124148,3093755,0.08446046955883707
+1144,Rubber product manufacturing,1808,New Jersey,2016,3262,161424,4515938,0.04003597923620741
+1145,Rubber product manufacturing,0,New Mexico,2016,3262,10553,935358,0.0
+1146,Rubber product manufacturing,6484,Illinois,2016,3262,335056,6512493,0.09956248705372889
+1147,Rubber product manufacturing,27,South Dakota,2016,3262,17941,451642,0.0059781862625707975
+1148,Rubber product manufacturing,1215,Oregon,2016,3262,92974,2053854,0.059157077377457214
+1149,Rubber product manufacturing,3329,Iowa,2016,3262,91133,1690916,0.19687553964833263
+1150,Rubber product manufacturing,117,Colorado,2016,3262,53580,2899662,0.004034953039354242
+1151,Rubber product manufacturing,4108,Arkansas,2016,3262,76421,1327435,0.309469013548686
+1152,Rubber product manufacturing,263,Arizona,2016,3262,56602,3252711,0.008085563088758884
+1153,Rubber product manufacturing,361,Utah,2016,3262,54867,1522330,0.023713649471533767
+1154,Rubber product manufacturing,0,Rhode Island,2016,3262,12601,552748,0.0
+1155,Rubber product manufacturing,5144,Oklahoma,2016,3262,62254,1835037,0.2803213232212757
+1156,Rubber product manufacturing,3081,Kansas,2016,3262,70825,1482709,0.20779532598776967
+1157,Rubber product manufacturing,427,Washington,2016,3262,97028,3661925,0.011660533735671812
+1158,Rubber product manufacturing,2665,New York,2016,3262,230548,9539259,0.027937180445567103
+1159,Rubber product manufacturing,2377,Mississippi,2016,3262,60455,1290731,0.18415920900636926
+1160,Rubber product manufacturing,4992,Michigan,2016,3262,260972,4831428,0.10332348945280773
+1161,Rubber product manufacturing,0,Wyoming,2016,3262,8951,302608,0.0
+1162,Rubber product manufacturing,2248,Wisconsin,2016,3262,250012,3108632,0.07231476739607648
+1163,Rubber product manufacturing,515,West Virginia,2016,3262,45957,775724,0.0663895921745363
+1164,Rubber product manufacturing,0,Vermont,2016,3262,12215,343843,0.0
+1165,Rubber product manufacturing,0,North Dakota,2016,3262,8658,427558,0.0
+1166,Rubber product manufacturing,8096,Tennessee,2016,3262,188053,3156375,0.25649677240505325
+1167,Sawmills and wood preservation,580,Vermont,2016,3211,12215,343843,0.16868163667720443
+1168,Sawmills and wood preservation,1517,Indiana,2016,3211,231759,3295293,0.046035360133378125
+1169,Sawmills and wood preservation,1644,Tennessee,2016,3211,188053,3156375,0.05208506593798266
+1170,Sawmills and wood preservation,362,Iowa,2016,3211,91133,1690916,0.021408514674886275
+1171,Sawmills and wood preservation,5,Kansas,2016,3211,70825,1482709,0.0003372205874517521
+1172,Sawmills and wood preservation,2992,Pennsylvania,2016,3211,317404,6420121,0.04660348301846648
+1173,Sawmills and wood preservation,6381,Oregon,2016,3211,92974,2053854,0.31068420637494193
+1174,Sawmills and wood preservation,3496,Virginia,2016,3211,147694,4262681,0.08201411271450995
+1175,Sawmills and wood preservation,2485,South Carolina,2016,3211,143099,2289830,0.10852334016062327
+1176,Sawmills and wood preservation,401,Illinois,2016,3211,335056,6512493,0.00615739625363129
+1177,Sawmills and wood preservation,433,Colorado,2016,3211,53580,2899662,0.014932774923422109
+1178,Sawmills and wood preservation,309,Oklahoma,2016,3211,62254,1835037,0.01683889752631691
+1179,Sawmills and wood preservation,233,Wyoming,2016,3211,8951,302608,0.07699730344207688
+1180,Sawmills and wood preservation,2342,Idaho,2016,3211,28172,805716,0.29067314041175796
+1181,Sawmills and wood preservation,61,Hawaii,2016,3211,4383,699577,0.008719554816696375
+1182,Sawmills and wood preservation,4612,Georgia,2016,3211,208481,4993511,0.09235986463231982
+1183,Sawmills and wood preservation,2358,Florida,2016,3211,153757,9922037,0.023765281262305312
+1184,Sawmills and wood preservation,0,Connecticut,2016,3211,49562,1887269,0.0
+1185,Sawmills and wood preservation,4298,Arkansas,2016,3211,76421,1327435,0.3237823320915902
+1186,Sawmills and wood preservation,201,Arizona,2016,3211,56602,3252711,0.006179460763652228
+1187,Sawmills and wood preservation,4392,North Carolina,2016,3211,262235,4901041,0.0896136147402154
+1188,Sawmills and wood preservation,1724,West Virginia,2016,3211,45957,775724,0.22224399399786524
+1189,Sawmills and wood preservation,63,New Jersey,2016,3211,161424,4515938,0.0013950590109961653
+1190,Sawmills and wood preservation,1247,New York,2016,3211,230548,9539259,0.013072294189726896
+1191,Sawmills and wood preservation,664,New Hampshire,2016,3211,24944,746996,0.08888936486942367
+1192,Sawmills and wood preservation,0,Rhode Island,2016,3211,12601,552748,0.0
+1193,Sawmills and wood preservation,1112,Ohio,2016,3211,364242,5673884,0.019598567753588196
+1194,Sawmills and wood preservation,0,North Dakota,2016,3211,8658,427558,0.0
+1195,Sawmills and wood preservation,448,South Dakota,2016,3211,17941,451642,0.099193609097471
+1196,Sawmills and wood preservation,48,Alaska,2016,3211,3239,353728,0.013569748507327662
+1197,Sawmills and wood preservation,2799,Texas,2016,3211,450208,13398817,0.02088990393704161
+1198,Sawmills and wood preservation,0,New Mexico,2016,3211,10553,935358,0.0
+1199,Sawmills and wood preservation,33,Utah,2016,3211,54867,1522330,0.0021677297300848044
+1200,Sawmills and wood preservation,140,Nebraska,2016,3211,39252,1008515,0.013881796502778838
+1201,Sawmills and wood preservation,1321,Montana,2016,3211,12495,519979,0.2540487211983561
+1202,Sawmills and wood preservation,1527,Maine,2016,3211,31611,690121,0.22126554618682812
+1203,Sawmills and wood preservation,4903,Washington,2016,3211,97028,3661925,0.13389132764870937
+1204,Sawmills and wood preservation,1990,Wisconsin,2016,3211,250012,3108632,0.06401529676076165
+1205,Sawmills and wood preservation,3200,California,2016,3211,517711,19192788,0.016672929435785983
+1206,Sawmills and wood preservation,3414,Mississippi,2016,3211,60455,1290731,0.26450127873274915
+1207,Sawmills and wood preservation,2105,Kentucky,2016,3211,138085,2012099,0.10461711874018126
+1208,Sawmills and wood preservation,847,Minnesota,2016,3211,166155,2977719,0.028444591313015095
+1209,Sawmills and wood preservation,1541,Louisiana,2016,3211,107111,2089577,0.07374698324110573
+1210,Sawmills and wood preservation,1861,Michigan,2016,3211,260972,4831428,0.0385186325864734
+1211,Sawmills and wood preservation,361,Massachusetts,2016,3211,107215,3587944,0.010061472531343856
+1212,Sawmills and wood preservation,177,Nevada,2016,3211,25744,1427057,0.012403148577807334
+1213,Sawmills and wood preservation,354,Maryland,2016,3211,62157,3197318,0.011071779535222958
+1214,Sawmills and wood preservation,967,Missouri,2016,3211,124148,3093755,0.03125651514098563
+1215,Sawmills and wood preservation,5019,Alabama,2016,3211,128315,2181837,0.230035515943675
+1216,"Soap, cleaning compound, and toilet preparation manufacturing",1190,Iowa,2016,3256,91133,1690916,0.07037605652794107
+1217,"Soap, cleaning compound, and toilet preparation manufacturing",4554,Pennsylvania,2016,3256,317404,6420121,0.07093324253546
+1218,"Soap, cleaning compound, and toilet preparation manufacturing",0,New Mexico,2016,3256,10553,935358,0.0
+1219,"Soap, cleaning compound, and toilet preparation manufacturing",6095,Ohio,2016,3256,364242,5673884,0.10742200580766191
+1220,"Soap, cleaning compound, and toilet preparation manufacturing",354,Oregon,2016,3256,92974,2053854,0.017235889211209755
+1221,"Soap, cleaning compound, and toilet preparation manufacturing",233,Alabama,2016,3256,128315,2181837,0.01067907455964859
+1222,"Soap, cleaning compound, and toilet preparation manufacturing",323,Rhode Island,2016,3256,12601,552748,0.05843530867592465
+1223,"Soap, cleaning compound, and toilet preparation manufacturing",1496,South Carolina,2016,3256,143099,2289830,0.0653323609176227
+1224,"Soap, cleaning compound, and toilet preparation manufacturing",0,South Dakota,2016,3256,17941,451642,0.0
+1225,"Soap, cleaning compound, and toilet preparation manufacturing",5850,North Carolina,2016,3256,262235,4901041,0.11936239668266396
+1226,"Soap, cleaning compound, and toilet preparation manufacturing",4573,Texas,2016,3256,450208,13398817,0.03412987877959674
+1227,"Soap, cleaning compound, and toilet preparation manufacturing",456,Vermont,2016,3256,12215,343843,0.13261866607725037
+1228,"Soap, cleaning compound, and toilet preparation manufacturing",853,Virginia,2016,3256,147694,4262681,0.02001088047639502
+1229,"Soap, cleaning compound, and toilet preparation manufacturing",0,West Virginia,2016,3256,45957,775724,0.0
+1230,"Soap, cleaning compound, and toilet preparation manufacturing",0,Wyoming,2016,3256,8951,302608,0.0
+1231,"Soap, cleaning compound, and toilet preparation manufacturing",370,Arizona,2016,3256,56602,3252711,0.011375126778862309
+1232,"Soap, cleaning compound, and toilet preparation manufacturing",2908,Florida,2016,3256,153757,9922037,0.029308497841723426
+1233,"Soap, cleaning compound, and toilet preparation manufacturing",4758,New York,2016,3256,230548,9539259,0.049878088015012485
+1234,"Soap, cleaning compound, and toilet preparation manufacturing",2498,Georgia,2016,3256,208481,4993511,0.05002492234421833
+1235,"Soap, cleaning compound, and toilet preparation manufacturing",5787,Illinois,2016,3256,335056,6512493,0.08885998034853934
+1236,"Soap, cleaning compound, and toilet preparation manufacturing",8069,New Jersey,2016,3256,161424,4515938,0.17867827237663583
+1237,"Soap, cleaning compound, and toilet preparation manufacturing",2173,Michigan,2016,3256,260972,4831428,0.04497635067727388
+1238,"Soap, cleaning compound, and toilet preparation manufacturing",232,Mississippi,2016,3256,60455,1290731,0.017974310681311598
+1239,"Soap, cleaning compound, and toilet preparation manufacturing",82,New Hampshire,2016,3256,24944,746996,0.0109773010832722
+1240,"Soap, cleaning compound, and toilet preparation manufacturing",116,Nevada,2016,3256,25744,1427057,0.008128617147037574
+1241,"Soap, cleaning compound, and toilet preparation manufacturing",0,Nebraska,2016,3256,39252,1008515,0.0
+1242,"Soap, cleaning compound, and toilet preparation manufacturing",419,Idaho,2016,3256,28172,805716,0.05200343545368343
+1243,"Soap, cleaning compound, and toilet preparation manufacturing",5,Alaska,2016,3256,3239,353728,0.0014135154695132982
+1244,"Soap, cleaning compound, and toilet preparation manufacturing",1408,Arkansas,2016,3256,76421,1327435,0.10606922372846882
+1245,"Soap, cleaning compound, and toilet preparation manufacturing",9146,California,2016,3256,517711,19192788,0.047653316443655815
+1246,"Soap, cleaning compound, and toilet preparation manufacturing",536,Colorado,2016,3256,53580,2899662,0.018484913069178408
+1247,"Soap, cleaning compound, and toilet preparation manufacturing",2439,Wisconsin,2016,3256,250012,3108632,0.07845894914547621
+1248,"Soap, cleaning compound, and toilet preparation manufacturing",378,Washington,2016,3256,97028,3661925,0.010322439700430784
+1249,"Soap, cleaning compound, and toilet preparation manufacturing",1261,Connecticut,2016,3256,49562,1887269,0.0668161242514978
+1250,"Soap, cleaning compound, and toilet preparation manufacturing",1001,Delaware,2016,3256,15705,470075,0.2129447428601819
+1251,"Soap, cleaning compound, and toilet preparation manufacturing",95,Hawaii,2016,3256,4383,699577,0.013579634550592716
+1252,"Soap, cleaning compound, and toilet preparation manufacturing",1227,Utah,2016,3256,54867,1522330,0.080600132691335
+1253,"Soap, cleaning compound, and toilet preparation manufacturing",137,Oklahoma,2016,3256,62254,1835037,0.007465789518140507
+1254,"Soap, cleaning compound, and toilet preparation manufacturing",0,Montana,2016,3256,12495,519979,0.0
+1255,"Soap, cleaning compound, and toilet preparation manufacturing",644,Kansas,2016,3256,70825,1482709,0.04343401166378568
+1256,"Soap, cleaning compound, and toilet preparation manufacturing",1764,Kentucky,2016,3256,138085,2012099,0.0876696424977101
+1257,"Soap, cleaning compound, and toilet preparation manufacturing",1615,Louisiana,2016,3256,107111,2089577,0.07728836984710302
+1258,"Soap, cleaning compound, and toilet preparation manufacturing",3443,Tennessee,2016,3256,188053,3156375,0.10908082848204032
+1259,"Soap, cleaning compound, and toilet preparation manufacturing",63,Maine,2016,3256,31611,690121,0.009128833929122573
+1260,"Soap, cleaning compound, and toilet preparation manufacturing",1193,Maryland,2016,3256,62157,3197318,0.037312522557968894
+1261,"Soap, cleaning compound, and toilet preparation manufacturing",661,Massachusetts,2016,3256,107215,3587944,0.018422807044926007
+1262,"Soap, cleaning compound, and toilet preparation manufacturing",1106,Minnesota,2016,3256,166155,2977719,0.03714252419385442
+1263,"Soap, cleaning compound, and toilet preparation manufacturing",4069,Missouri,2016,3256,124148,3093755,0.13152301976077616
+1264,"Soap, cleaning compound, and toilet preparation manufacturing",1321,Indiana,2016,3256,231759,3295293,0.04008748235741101
+1265,"Veneer, plywood, and engineered wood product manufacturing",454,New York,2016,3212,230548,9539259,0.004759279520558148
+1266,"Veneer, plywood, and engineered wood product manufacturing",0,New Mexico,2016,3212,10553,935358,0.0
+1267,"Veneer, plywood, and engineered wood product manufacturing",1554,Ohio,2016,3212,364242,5673884,0.027388645943413722
+1268,"Veneer, plywood, and engineered wood product manufacturing",517,Nebraska,2016,3212,39252,1008515,0.05126349137097614
+1269,"Veneer, plywood, and engineered wood product manufacturing",182,Alaska,2016,3212,3239,353728,0.051451963090284054
+1270,"Veneer, plywood, and engineered wood product manufacturing",560,Missouri,2016,3212,124148,3093755,0.01810098084689964
+1271,"Veneer, plywood, and engineered wood product manufacturing",2213,Mississippi,2016,3212,60455,1290731,0.17145323076613175
+1272,"Veneer, plywood, and engineered wood product manufacturing",908,Maryland,2016,3212,62157,3197318,0.028398801745713128
+1273,"Veneer, plywood, and engineered wood product manufacturing",426,Kansas,2016,3212,70825,1482709,0.028731194050889284
+1274,"Veneer, plywood, and engineered wood product manufacturing",685,Iowa,2016,3212,91133,1690916,0.04051058716104171
+1275,"Veneer, plywood, and engineered wood product manufacturing",1601,Illinois,2016,3212,335056,6512493,0.024583519705894504
+1276,"Veneer, plywood, and engineered wood product manufacturing",843,Idaho,2016,3212,28172,805716,0.10462743696290008
+1277,"Veneer, plywood, and engineered wood product manufacturing",85,Hawaii,2016,3212,4383,699577,0.01215019933474085
+1278,"Veneer, plywood, and engineered wood product manufacturing",0,Delaware,2016,3212,15705,470075,0.0
+1279,"Veneer, plywood, and engineered wood product manufacturing",0,Connecticut,2016,3212,49562,1887269,0.0
+1280,"Veneer, plywood, and engineered wood product manufacturing",1261,Colorado,2016,3212,53580,2899662,0.04348782720192906
+1281,"Veneer, plywood, and engineered wood product manufacturing",1069,Montana,2016,3212,12495,519979,0.20558522555718597
+1282,"Veneer, plywood, and engineered wood product manufacturing",363,Oklahoma,2016,3212,62254,1835037,0.01978161748237229
+1283,"Veneer, plywood, and engineered wood product manufacturing",3945,North Carolina,2016,3212,262235,4901041,0.0804931034039503
+1284,"Veneer, plywood, and engineered wood product manufacturing",2329,South Carolina,2016,3212,143099,2289830,0.10171060733766263
+1285,"Veneer, plywood, and engineered wood product manufacturing",126,Wyoming,2016,3212,8951,302608,0.04163802675408449
+1286,"Veneer, plywood, and engineered wood product manufacturing",1257,Kentucky,2016,3212,138085,2012099,0.06247207518119139
+1287,"Veneer, plywood, and engineered wood product manufacturing",106,Massachusetts,2016,3212,107215,3587944,0.002954338194799027
+1288,"Veneer, plywood, and engineered wood product manufacturing",2984,California,2016,3212,517711,19192788,0.01554750669887043
+1289,"Veneer, plywood, and engineered wood product manufacturing",2075,Alabama,2016,3212,128315,2181837,0.09510334640030396
+1290,"Veneer, plywood, and engineered wood product manufacturing",1209,Arizona,2016,3212,56602,3252711,0.03716899533957981
+1291,"Veneer, plywood, and engineered wood product manufacturing",462,Nevada,2016,3212,25744,1427057,0.032374320016649645
+1292,"Veneer, plywood, and engineered wood product manufacturing",1754,Arkansas,2016,3212,76421,1327435,0.1321345301276522
+1293,"Veneer, plywood, and engineered wood product manufacturing",1962,Pennsylvania,2016,3212,317404,6420121,0.030560171685237707
+1294,"Veneer, plywood, and engineered wood product manufacturing",3595,Florida,2016,3212,153757,9922037,0.0362324792781966
+1295,"Veneer, plywood, and engineered wood product manufacturing",2594,Virginia,2016,3212,147694,4262681,0.060853720932905836
+1296,"Veneer, plywood, and engineered wood product manufacturing",2839,Georgia,2016,3212,208481,4993511,0.0568537848419679
+1297,"Veneer, plywood, and engineered wood product manufacturing",65,New Hampshire,2016,3212,24944,746996,0.008701519151374305
+1298,"Veneer, plywood, and engineered wood product manufacturing",538,Utah,2016,3212,54867,1522330,0.03534056347835226
+1299,"Veneer, plywood, and engineered wood product manufacturing",2953,Louisiana,2016,3212,107111,2089577,0.14132046820959457
+1300,"Veneer, plywood, and engineered wood product manufacturing",3551,Indiana,2016,3212,231759,3295293,0.1077597652166287
+1301,"Veneer, plywood, and engineered wood product manufacturing",230,Vermont,2016,3212,12215,343843,0.06689099385475349
+1302,"Veneer, plywood, and engineered wood product manufacturing",2511,Michigan,2016,3212,260972,4831428,0.051972211942307736
+1303,"Veneer, plywood, and engineered wood product manufacturing",1395,Minnesota,2016,3212,166155,2977719,0.046847939647763945
+1304,"Veneer, plywood, and engineered wood product manufacturing",675,Tennessee,2016,3212,188053,3156375,0.021385291671616968
+1305,"Veneer, plywood, and engineered wood product manufacturing",0,North Dakota,2016,3212,8658,427558,0.0
+1306,"Veneer, plywood, and engineered wood product manufacturing",440,New Jersey,2016,3212,161424,4515938,0.00974326928314782
+1307,"Veneer, plywood, and engineered wood product manufacturing",698,South Dakota,2016,3212,17941,451642,0.15454718560275615
+1308,"Veneer, plywood, and engineered wood product manufacturing",8091,Oregon,2016,3212,92974,2053854,0.3939423152765483
+1309,"Veneer, plywood, and engineered wood product manufacturing",3770,Texas,2016,3212,450208,13398817,0.02813681237679416
+1310,"Veneer, plywood, and engineered wood product manufacturing",2205,Washington,2016,3212,97028,3661925,0.06021423158584624
+1311,"Veneer, plywood, and engineered wood product manufacturing",0,Rhode Island,2016,3212,12601,552748,0.0
+1312,"Veneer, plywood, and engineered wood product manufacturing",3668,Wisconsin,2016,3212,250012,3108632,0.11799402438114256
+1313,"Veneer, plywood, and engineered wood product manufacturing",690,Maine,2016,3212,31611,690121,0.09998246684277107
+1314,"Veneer, plywood, and engineered wood product manufacturing",874,West Virginia,2016,3212,45957,775724,0.11266893895251404
+1315,Wood product manufacturing,15031,Indiana,2016,321,231759,3295293,0.456135463523274
+1316,Wood product manufacturing,8661,Iowa,2016,321,91133,1690916,0.5122075845281493
+1317,Wood product manufacturing,19420,Pennsylvania,2016,321,317404,6420121,0.302486510768255
+1318,Wood product manufacturing,6618,Idaho,2016,321,28172,805716,0.8213812311037636
+1319,Wood product manufacturing,195,Hawaii,2016,321,4383,699577,0.02787398670911136
+1320,Wood product manufacturing,10858,Florida,2016,321,153757,9922037,0.10943317385331258
+1321,Wood product manufacturing,167,Delaware,2016,321,15705,470075,0.03552624581183854
+1322,Wood product manufacturing,1050,Connecticut,2016,321,49562,1887269,0.05563594802860641
+1323,Wood product manufacturing,3732,Colorado,2016,321,53580,2899662,0.1287046559219661
+1324,Wood product manufacturing,22006,California,2016,321,517711,19192788,0.11465765161372074
+1325,Wood product manufacturing,8615,Arkansas,2016,321,76421,1327435,0.6489959960374708
+1326,Wood product manufacturing,4644,Arizona,2016,321,56602,3252711,0.1427732128676664
+1327,Wood product manufacturing,343,Alaska,2016,321,3239,353728,0.09696716120861226
+1328,Wood product manufacturing,7258,Illinois,2016,321,335056,6512493,0.11144733668043864
+1329,Wood product manufacturing,14913,Georgia,2016,321,208481,4993511,0.2986475848355996
+1330,Wood product manufacturing,10661,Kentucky,2016,321,138085,2012099,0.529844704460367
+1331,Wood product manufacturing,22603,Oregon,2016,321,92974,2053854,1.1005163950310002
+1332,Wood product manufacturing,1681,Oklahoma,2016,321,62254,1835037,0.09160578233572401
+1333,Wood product manufacturing,463,Rhode Island,2016,321,12601,552748,0.08376330624443688
+1334,Wood product manufacturing,10385,Ohio,2016,321,364242,5673884,0.1830315882383214
+1335,Wood product manufacturing,8894,South Carolina,2016,321,143099,2289830,0.38841311363725695
+1336,Wood product manufacturing,1754,North Dakota,2016,321,8658,427558,0.41023673981073916
+1337,Wood product manufacturing,20293,North Carolina,2016,321,262235,4901041,0.4140548916036409
+1338,Wood product manufacturing,2041,South Dakota,2016,321,17941,451642,0.45190659858914806
+1339,Wood product manufacturing,11055,Tennessee,2016,321,188053,3156375,0.35024355471070456
+1340,Wood product manufacturing,8529,New York,2016,321,230548,9539259,0.0894094604203534
+1341,Wood product manufacturing,22886,Texas,2016,321,450208,13398817,0.17080612415260243
+1342,Wood product manufacturing,1866,Utah,2016,321,54867,1522330,0.12257526291934076
+1343,Wood product manufacturing,804,New Mexico,2016,321,10553,935358,0.08595639316710821
+1344,Wood product manufacturing,2559,New Jersey,2016,321,161424,4515938,0.056665968399034705
+1345,Wood product manufacturing,1738,New Hampshire,2016,321,24944,746996,0.23266523515520832
+1346,Wood product manufacturing,923,Nevada,2016,321,25744,1427057,0.06467856574754897
+1347,Wood product manufacturing,1782,Vermont,2016,321,12215,343843,0.5182597871703074
+1348,Wood product manufacturing,2072,Nebraska,2016,321,39252,1008515,0.2054505882411268
+1349,Wood product manufacturing,5744,Louisiana,2016,321,107111,2089577,0.27488817114660047
+1350,Wood product manufacturing,4099,Maine,2016,321,31611,690121,0.5939538138964037
+1351,Wood product manufacturing,2683,Maryland,2016,321,62157,3197318,0.0839140804887096
+1352,Wood product manufacturing,1835,Massachusetts,2016,321,107215,3587944,0.051143496108077495
+1353,Wood product manufacturing,10214,Michigan,2016,321,260972,4831428,0.21140747621614148
+1354,Wood product manufacturing,12897,Minnesota,2016,321,166155,2977719,0.4331167581628757
+1355,Wood product manufacturing,1971,Kansas,2016,321,70825,1482709,0.1329323555734807
+1356,Wood product manufacturing,8558,Mississippi,2016,321,60455,1290731,0.663035132804589
+1357,Wood product manufacturing,6380,Missouri,2016,321,124148,3093755,0.20622188893432092
+1358,Wood product manufacturing,19812,Wisconsin,2016,321,250012,3108632,0.6373221404141758
+1359,Wood product manufacturing,5910,West Virginia,2016,321,45957,775724,0.7618689121388535
+1360,Wood product manufacturing,2814,Montana,2016,321,12495,519979,0.5411757013263997
+1361,Wood product manufacturing,11388,Washington,2016,321,97028,3661925,0.31098397700662905
+1362,Wood product manufacturing,13134,Virginia,2016,321,147694,4262681,0.3081159486248209
+1363,Wood product manufacturing,478,Wyoming,2016,321,8951,302608,0.15796013324168562
+1364,Wood product manufacturing,14054,Alabama,2016,321,128315,2181837,0.6441361109927094

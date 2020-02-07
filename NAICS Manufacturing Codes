@@ -1,0 +1,95 @@
+Link where I got that dataset for manufacturing jobs for NAICS 31 to 33:https://www.census.gov/data/developers/data-sets/Annual-Survey-of-Manufactures.html
+
+C24070_060E Estimate!!Total!!Local, state, and federal government workers!!Manufacturing
+
+B24050_060E	Estimate!!Total!!Service occupations!!Manufacturing
+
+B24050_114E	Estimate!!Total!!Natural resources, construction, and maintenance occupations!!Manufacturing
+
+Codes for Males Employed in specific Manufacturing Industries
+B08126_004E	Estimate!!Total!!Manufacturing
+
+B08126_094E	Estimate!!Total!!Worked at home!!Manufacturing
+
+B24030_007E	Estimate!!Total!!Male!!Manufacturing
+
+B24030_008E	Estimate!!Total!!Male!!Manufacturing!!Food
+
+B24030_009E	Estimate!!Total!!Male!!Manufacturing!!Beverage and tobacco products
+
+B24030_010E	Estimate!!Total!!Male!!Manufacturing!!Textile mills and textile products
+
+B24030_011E	Estimate!!Total!!Male!!Manufacturing!!Apparel
+
+B24030_012E	Estimate!!Total!!Male!!Manufacturing!!Leather and allied products
+
+B24030_013E	Estimate!!Total!!Male!!Manufacturing!!Wood products
+
+B24030_014E	Estimate!!Total!!Male!!Manufacturing!!Paper
+
+B24030_015E	Estimate!!Total!!Male!!Manufacturing!!Printing and related support activities
+
+B24030_016E	Estimate!!Total!!Male!!Manufacturing!!Petroleum and coal products
+
+B24030_017E	Estimate!!Total!!Male!!Manufacturing!!Chemicals
+
+B24030_018E	Estimate!!Total!!Male!!Manufacturing!!Plastics and rubber products
+
+B24030_019E	Estimate!!Total!!Male!!Manufacturing!!Nonmetallic mineral products
+
+B24030_020E	Estimate!!Total!!Male!!Manufacturing!!Metal and metal products
+
+B24030_021E	Estimate!!Total!!Male!!Manufacturing!!Machinery
+
+B24030_022E	Estimate!!Total!!Male!!Manufacturing!!Computer and electronic products
+
+B24030_023E	Estimate!!Total!!Male!!Manufacturing!!Electrical equipment, appliances, and components
+
+B24030_024E	Estimate!!Total!!Male!!Manufacturing!!Transportation equipment
+
+B24030_025E	Estimate!!Total!!Male!!Manufacturing!!Furniture and related product manufacturing
+
+B24030_026E	Estimate!!Total!!Male!!Manufacturing!!Miscellaneous manufacturing
+
+Codes for Females employed in specific Manufacturing Industries
+
+B24030_111E	Estimate!!Total!!Female!!Manufacturing
+
+B24030_112E	Estimate!!Total!!Female!!Manufacturing!!Food
+
+B24030_113E	Estimate!!Total!!Female!!Manufacturing!!Beverage and tobacco products
+
+B24030_114E	Estimate!!Total!!Female!!Manufacturing!!Textile mills and textile products
+
+B24030_115E	Estimate!!Total!!Female!!Manufacturing!!Apparel
+
+B24030_116E	Estimate!!Total!!Female!!Manufacturing!!Leather and allied products
+
+B24030_117E	Estimate!!Total!!Female!!Manufacturing!!Wood products
+
+B24030_118E	Estimate!!Total!!Female!!Manufacturing!!Paper
+
+B24030_119E	Estimate!!Total!!Female!!Manufacturing!!Printing and related support activities
+
+B24030_120E	Estimate!!Total!!Female!!Manufacturing!!Petroleum and coal products
+
+B24030_121E	Estimate!!Total!!Female!!Manufacturing!!Chemicals
+
+B24030_122E	Estimate!!Total!!Female!!Manufacturing!!Plastics and rubber products
+
+B24030_123E	Estimate!!Total!!Female!!Manufacturing!!Nonmetallic mineral products
+
+B24030_124E	Estimate!!Total!!Female!!Manufacturing!!Metal and metal products
+
+B24030_125E	Estimate!!Total!!Female!!Manufacturing!!Machinery
+
+B24030_126E	Estimate!!Total!!Female!!Manufacturing!!Computer and electronic products
+
+B24030_127E	Estimate!!Total!!Female!!Manufacturing!!Electrical equipment, appliances, and components
+
+B24030_128E	Estimate!!Total!!Female!!Manufacturing!!Transportation equipment
+
+B24030_129E	Estimate!!Total!!Female!!Manufacturing!!Furniture and related product manufacturing
+
+B24030_130E	Estimate!!Total!!Female!!Manufacturing!!Miscellaneous manufacturing
+
