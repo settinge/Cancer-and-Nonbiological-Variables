@@ -1,0 +1,6 @@
+CancerType,Year,Race,AgeSpecificRate,CaseCount,Population
+'All Cancer Sites Combined','2012-2016','American Indian/Alaska Native','288.8','48162','22556807'
+'All Cancer Sites Combined','2012-2016','Asian/Pacific Islander','287.7','259093','97229352'
+'All Cancer Sites Combined','2012-2016','Black','450.4','896820','221487933'
+'All Cancer Sites Combined','2012-2016','Hispanic','346.5','636243','276674008'
+'All Cancer Sites Combined','2012-2016','White','450.1','6854637','1252021984'
