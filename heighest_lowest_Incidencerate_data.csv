@@ -1,21 +1,21 @@
-State,Incidence Rate,Average Annual Count_x,Death Rate,Average Annual Count_y,Cancer Death_per_hundred_cancer_patient
-New Mexico,374,9116,144,3514,39
-Arizona,387,30448,144,11508,38
-Nevada,393,12409,162,4934,40
-Wyoming,397,2638,145,943,36
-Colorado,401,22701,139,7520,33
-Utah,403,10143,127,3021,30
-California,405,165242,145,58588,35
-Texas,408,107094,154,38943,36
-Alaska,413,2784,165,977,35
-Virginia,419,39078,161,14686,38
-Maine,476,8700,174,3267,38
-West Virginia,476,11653,189,4756,41
-Rhode Island,478,6163,165,2223,36
-Louisiana,481,24888,183,9346,38
-New York,483,111527,151,35491,32
-New Jersey,483,50921,154,16407,32
-New Hampshire,484,8129,162,2718,33
-Pennsylvania,487,79060,169,28658,36
-Delaware,498,5803,170,1989,34
-Kentucky,521,26945,198,10206,38
+"State,Death Rate,Average Annual Count_y,Cancer Death_per_hundred_cancer_patient"	Incidence Rate	Average Annual Count_x
+"New Mexico,374.0,9116.0,144.0,3514.0,39.0"		
+"Arizona,387.0,30448.0,144.0,11508.0,38.0"		
+"Nevada,393.0,12409.0,162.0,4934.0,40.0"		
+"Wyoming,397.0,2638.0,145.0,943.0,36.0"		
+"Colorado,401.0,22701.0,139.0,7520.0,33.0"		
+"Utah,403.0,10143.0,127.0,3021.0,30.0"		
+"California,405.0,165242.0,145.0,58588.0,35.0"		
+"Texas,408.0,107094.0,154.0,38943.0,36.0"		
+"Alaska,413.0,2784.0,165.0,977.0,35.0"		
+"Virginia,419.0,39078.0,161.0,14686.0,38.0"		
+"Maine,476.0,8700.0,174.0,3267.0,38.0"		
+"West Virginia,476.0,11653.0,189.0,4756.0,41.0"		
+"Rhode Island,478.0,6163.0,165.0,2223.0,36.0"		
+"Louisiana,481.0,24888.0,183.0,9346.0,38.0"		
+"New York,483.0,111527.0,151.0,35491.0,32.0"		
+"New Jersey,483.0,50921.0,154.0,16407.0,32.0"		
+"New Hampshire,484.0,8129.0,162.0,2718.0,33.0"		
+"Pennsylvania,487.0,79060.0,169.0,28658.0,36.0"		
+"Delaware,498.0,5803.0,170.0,1989.0,34.0"		
+"Kentucky,521.0,26945.0,198.0,10206.0,38.0"		
