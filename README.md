@@ -36,6 +36,8 @@ Screenshots:
 
 ![ScreenShot](Lifestyle_Correlation_Chart.png)
 
+This chart demonstrates the weight that various lifestyle factors can have on cancer incidence rate. We used this chart type because we wanted the user to be able to view all lifestyle factors we looked into and their corresponding weight on cancer incidence rate in a clear, quick way.
+
 Findings:
 
 - There is a correlation between percentage of manufacturing jobs and
