@@ -32,6 +32,10 @@ Data Analysis:
 
 - Create scatter plots and r squared values
 
+Screenshots:
+
+![ScreenShot](Lifestyle_Correlation_Chart.png)
+
 Findings:
 
 - There is a correlation between percentage of manufacturing jobs and
