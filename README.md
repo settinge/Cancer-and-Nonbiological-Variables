@@ -14,6 +14,16 @@ The data we explored to make the above determination was:
 - Household income data
 - Lifestyle data
 
+How to Run Code:
+
+1). Clone the Github repository into a folder in your local
+
+2). Open Jupyter Lab (May need to install Anaconda in order to do this)
+
+3). Navigate to Row-2-Group-Project/Final Result/Analysis_cancer.ipynb
+
+3). Run all cells by clicking on Run>Run all cells
+
 Data Analysis:
 
 - Cancer mortality and cancer incidence rates were joined in with nonbiological data.
