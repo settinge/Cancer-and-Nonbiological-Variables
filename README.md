@@ -38,6 +38,11 @@ Screenshots:
 
 This chart demonstrates the weight that various lifestyle factors can have on cancer incidence rate. We used this chart type because we wanted the user to be able to view all lifestyle factors we looked into and their corresponding weight on cancer incidence rate in a clear, quick way.
 
+![ScreenShot](income_vs_cancerdeath.jpg)
+
+This chart demonstrates that there is little correlation between household income and cancer death rate. A scatter plot was selected because that is the one of the best charts that can be used for a correlation visualization.
+
+
 Findings:
 
 - There is a correlation between percentage of manufacturing jobs and
