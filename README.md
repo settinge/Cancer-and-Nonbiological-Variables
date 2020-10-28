@@ -42,6 +42,10 @@ This chart demonstrates the weight that various lifestyle factors can have on ca
 
 This chart demonstrates that there is little correlation between household income and cancer death rate. A scatter plot was selected because that is the one of the best charts that can be used for a correlation visualization.
 
+![ScreenShot](air_quality_cancer.jpg)
+
+These graphs demonstrate the correlations between various air pollutants and cancer incidence and cancer death rates. The images on the right demonstrate the relationship between PM2.5 and all states in the United States and the image on the right only looks at select states along with SO2, NO2, and PM2.5. A line chart was used to see if cancer incidence rate increased over time with increased exposure to air pollutants and scatter plots were used to demonstrate individual air pollutant correlations. 
+
 
 Findings:
 
